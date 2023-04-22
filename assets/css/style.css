@@ -4,14 +4,22 @@
 }
 
 /*callout*/
+.callout {
+    margin: 80px 0 50px 0;
+}
+
 .callout div{
     padding:0;
     text-align: center;
 }
 
+.callout p {
+    padding-top: 7px;
+}
+
 /*footer*/
 footer {
-    background-color:red;
+    background-color:blue;
     height: 8vh;
 }
 
@@ -33,4 +41,7 @@ footer {
     .callout div {
         text-align:left;
     }
+}* {
+    margin: 0;
+    padding: 0;
 }
