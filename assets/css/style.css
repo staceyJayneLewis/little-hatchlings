@@ -3,11 +3,32 @@
     padding: 0;
 }
 
+/*callout*/
 .callout div{
     padding:0;
     text-align: center;
 }
 
+/*footer*/
+footer {
+    background-color:red;
+    height: 8vh;
+}
+
+.social-icons {
+    width:100%;
+    margin: 0 auto;
+    padding-top: 12px;
+}
+
+.social-icon {
+    width:25%;
+    float:left;
+    text-align: center;
+}
+
+
+/*responsive*/
 @media (min-width: 768px) {
     .callout div {
         text-align:left;
