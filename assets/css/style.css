@@ -1,11 +1,12 @@
 * {
-    margin: 0;
+    margin-top: 0;
     padding: 0;
 }
 
+/*<-----Home----->*/
 /*callout*/
 .callout {
-    margin: 80px 0 50px 0;
+    margin: 70px 0 50px 0;
 }
 
 .callout div{
@@ -26,7 +27,7 @@ footer {
 .social-icons {
     width:100%;
     margin: 0 auto;
-    padding-top: 15px;
+    padding-top: 13px;
 }
 
 .social-icon a {
@@ -39,13 +40,19 @@ footer {
     text-align: center;
 }
 
-
 /*responsive*/
 @media (min-width: 768px) {
     .callout div {
         text-align:left;
     }
-}* {
-    margin: 0;
-    padding: 0;
+}
+
+/*<-----Gallery----->*/
+.gallery {
+    margin-top: 70px;
+}
+
+/*<-----Contact Us----->*/
+.contact-us {
+    margin-top: 70px;
 }
