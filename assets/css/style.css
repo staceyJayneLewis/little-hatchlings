@@ -5,16 +5,16 @@
 
 /*<-----Home----->*/
 /*callout*/
-.callout {
+#callout {
     margin: 70px 0 50px 0;
 }
 
-.callout div{
+#callout div{
     padding:0;
     text-align: center;
 }
 
-.callout p {
+#callout p {
     padding-top: 7px;
 }
 
@@ -30,14 +30,15 @@ footer {
     padding-top: 13px;
 }
 
-.social-icon a {
-    color:darkslategrey;
+.social-icons li {
+    width:24.3%;
+    text-align: center;
+    display:inline-block;
 }
 
-.social-icon {
-    width:25%;
-    float:left;
-    text-align: center;
+
+.social-icons li a {
+    color:darkslategrey;
 }
 
 /*responsive*/
@@ -48,8 +49,16 @@ footer {
 }
 
 /*<-----Gallery----->*/
-.gallery {
-    margin-top: 70px;
+#gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 10px;
+}
+
+#gallery img {
+    width:100%;
+    border-radius: 10px;
 }
 
 /*<-----Contact Us----->*/
