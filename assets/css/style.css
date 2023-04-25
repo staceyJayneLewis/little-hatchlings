@@ -71,6 +71,20 @@ footer {
 }
 
 /*<-----Contact Us----->*/
-.contact-us {
-    margin-top: 70px;
+
+#form-section{
+    margin-top:90px!important;
+}
+
+form h3 {
+    margin-bottom:50px!important;
+}
+
+form button{
+    padding: 0 20px;
+}
+
+form textarea {
+    resize:none;
+    height: 7rem!important;
 }
