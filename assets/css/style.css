@@ -3,18 +3,28 @@
     padding: 0;
 }
 
-nav img {
-    height: 3.5rem;
+/*<-----Home----->*/
+
+/*navbar*/
+nav {
+    border-bottom: 2px solid whitesmoke;
 }
 
-/*<-----Home----->*/
+.navbar-toggler {
+    border-color: rgba(0,0,0,0)!important;
+}
+
+nav img {
+    width:13rem;
+}
+
 /*callout*/
 article {
     width:100%;
 }
 
 #callout {
-    margin-top: 100px;
+    margin-top: 120px;
 }
 
 #callout div{
