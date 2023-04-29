@@ -3,10 +3,18 @@
     padding: 0;
 }
 
+nav img {
+    height: 3.5rem;
+}
+
 /*<-----Home----->*/
 /*callout*/
+article {
+    width:100%;
+}
+
 #callout {
-    margin-top: 70px;
+    margin-top: 100px;
 }
 
 #callout div{
@@ -15,13 +23,25 @@
     font-size: 14px;
 }
 
+#callout p {
+    padding-top: 6px;
+}
+
+#callout a {
+    color:white;
+}
+
 #callout img {
     width:100%;
 }
 
-#callout p {
-    padding-top: 7px;
+/*Our Values*/
+
+.row {
+    margin-left: 0!important;
+    margin-right: 0!important;
 }
+
 
 /*footer*/
 footer {
