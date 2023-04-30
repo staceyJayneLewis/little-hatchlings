@@ -11,7 +11,7 @@
 <body>
     <!--Navbar-->
     <nav class="navbar navbar-expand-sm navbar-light fixed-top" style="background-color:#ffffff">
-        <a class="navbar-brand" href="index.html"><img src="assets/images/little-hatchlings-logo.png"></a>
+        <a class="navbar-brand" href="index.html"><img src="assets/css/images/little-hatchlings-logo.png"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -28,7 +28,7 @@
             </li>
           </ul>
         </div>
-      </nav>
+    </nav>
     <!--/.Navbar-->
 
     <!--Callout-->
@@ -36,13 +36,57 @@
             <div class="col-12 col-md-6 px-4">
                 <h4>Watch their confidence grow as big as their imagination!</h4>
                 <p>At Little Hatchlings we take pride in recently becoming the UK's No.1 leading childcare provider for babies right through to preschool age!</p>
-                <p><a class="btn btn-md" href="contact.html" style="background-color:#FFF800;">Contact Us</a></p>
+                <p><a class="btn btn-md m-2" href="contact.html" style="background-color:#FFF800;">Contact Us</a></p>
             </div>
-            <img src="assets/images/hero-image.png" alt="baby in space illustration">  
-        </article>
+            <img src="assets/css/images/hero-image.png" alt="baby in space illustration">  
+    </article>
     <!--/.callout-->
 
-        <!--Reviews-->
+    <!--Reviews-->
+    <section class="reviews">
+        <div id="carousel-buttons" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carousel-buttons" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-buttons" data-slide-to="1"></li>
+              <li data-target="#carousel-buttons" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner p-3">
+                <h4>What the parents say:</h4>
+              <div class="carousel-item active">
+                <blockquote class="review">
+                        <p>I have moved my child from many different nurseries from being dissatisfied 
+                        but I am extremely happy with her here at Little Hacklings.</p>
+                        <p>- Susan Higgins</p>
+                </blockquote> 
+              </div>
+              <div class="carousel-item">
+                <blockquote class="review">
+                    <p>The staff treat the children like their own and my children have learnt so much 
+                    since going to nursery, you can really see them developing their confidence too.</p>
+                    <p>- Jack James</p>
+                </blockquote>
+              </div>
+              <div class="carousel-item">
+                <blockquote class="review">
+                    <p>I was so nervous having to place my child in a nursery due to my work maternity 
+                    coming to an end however the staff reassured me along the way and kept sending me 
+                    updates (photos/ messages) of my child is getting on through the day.</p>
+                    <p>- Molly Locke</p>
+                </blockquote>
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carousel-buttons" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carousel-buttons" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+    </section> 
+
+        <!---basic style--
         <section class="reviews pt-5 pb-4">
                 <div class="row">
                     <div class="col-12">
@@ -58,53 +102,48 @@
                     </blockquote>
                 </div>
                 <div class="col-12 col-md-4">
-                    <div class="review">
+                    <blockquote class="review">
                         <p>The staff treat the children like their own and my children have learnt so much 
                         since going to nursery, you can really see them developing their confidence too.</p>
                         <p>- Jack James</p>
-                    </div>
+                    </blockquote>
                 </div> 
                 <div class="col-12 col-md-4">  
-                    <div class="review">
+                    <blockquote class="review">
                         <p>I was so nervous having to place my child in a nursery due to my work maternity 
                         coming to an end however the staff reassured me along the way and kept sending me 
                         updates (photos/ messages) of my child is getting on through the day.</p>
                         <p>- Molly Locke</p>
-                    </div>
+                    </blockquote>
                 </div>    
             </div>
         </section>
-        <!--/.reviews-->
+        /.reviews-->
 
           
         <!--About Us-->
-        <section class="about-us-section pt-4">
+        <section class="about-us-section">
             <div class="row">
-                <div class="col-12 col-md-6">
-                    <div class="about-us">
+                <video width="100%" height="300" controls>
+                    <source src="assets/images/nursery-welcome.mp4" type="video/mp4">
+                </video>
+                    <div class="col-12 col-md-6 about-us px-3 pt-5">
                         <h3>About Us</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+                        <p class="mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                         nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
                         esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
                         in culpa qui officia deserunt mollit anim id est laborum.
                         </p>
-                        <br>
-                        <p><a class="btn btn-md btn-dark" href="#">Gallery</a></p>
+                        <p><a class="btn btn-md mt-3" href="gallery.html">Gallery</a></p>
                     </div>
-                    <div class="col-12 col-md-6">
-                        <div class="video">
-                        <!--videomo video placed here-->
-                        </div>
-                    </div>
-                </div>
-            </div>  
+                </div>  
         </section>
         <!--/.About Us-->
 
 
         <!--achievements-->
-        <section class="achievements pt-5 pb-4">
+        <section class="achievements pt-5">
             <div class="row">
                  <div class="card col-12 col-md-4">
                     <img src="#" class="card-img-top" alt="...">
@@ -124,22 +163,21 @@
         <!--/.achievements-->
 
         <!--/.our values-->
-        <section class="our-values-section pt-4">
+        <section class="our-values-section pt-5">
             <div class="row">
                 <div class="col-12 col-md-6">
                     <div class="our-values">
                         <h3>Our Values</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+                        <p class="mt-3 px-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                         nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
                         esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
                         in culpa qui officia deserunt mollit anim id est laborum.
                         </p>
-                        <br>
-                        <p><a class="btn btn-md btn-dark" href="">Gallery</a></p>
+                        <p><a class="btn btn-md mt-3" href="">Gallery</a></p>
                     </div>
-                    <div class="our-values-img">
-                    <!--image placed here-->
+                    <div class="our-values-img pt-3">
+                        <img src="assets/css/images/our-values-img.jpg" alt="image of children in nursery">
                     </div>
                 </div>
             </div>

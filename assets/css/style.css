@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.btn {
+    background-color:yellow;
+}
+
 /*<-----Home----->*/
 
 /*navbar*/
@@ -24,7 +28,7 @@ article {
 }
 
 #callout {
-    margin-top: 120px;
+    margin-top: 110px;
 }
 
 #callout div{
@@ -45,13 +49,59 @@ article {
     width:100%;
 }
 
+/*reviews*/
+#carousel-buttons {
+    height: 12rem;
+    background-color:#5A31AD;
+}
+
+.carousel-inner{
+    background-color: white;
+    width:90%;
+    margin: 0 auto;
+    height: 18rem;
+    border-radius: 20px;
+    top: -7rem;
+    text-align: center;
+}
+
+.carousel-inner h4 {
+    padding: 8px 0;
+}
+
+.carousel-indicators li {
+    background-color:yellow;
+    
+}
+
+/*About us*/
+.about-us {
+    text-align: center;
+}
+
+video {
+    width:100%;
+}
+
 /*Our Values*/
+.our-values-section .col-12 {
+    width:100%;
+    padding-left:0!important;
+    padding-right:0!important;
+}
+
+.our-values {
+    text-align:center;
+}
+
+.our-values-img img{
+    width:100%;
+}
 
 .row {
     margin-left: 0!important;
     margin-right: 0!important;
 }
-
 
 /*footer*/
 footer {
@@ -86,7 +136,7 @@ footer {
 /*<-----Gallery----->*/
 #gallery-header {
     margin-top: 50px;
-    border: 3px solid #fff44f;
+    border: 3px solid yellow;
     padding:40px 20px 30px 20px;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
