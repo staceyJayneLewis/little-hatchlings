@@ -50,8 +50,7 @@ article {
 }
 
 /*reviews*/
-#carousel-buttons {
-    height: 12rem;
+.reviews {
     background-color:#5A31AD;
 }
 
@@ -67,6 +66,10 @@ article {
 
 .carousel-inner h4 {
     padding: 8px 0;
+}
+
+.carousel-indicators {
+    bottom: 7rem;
 }
 
 .carousel-indicators li {
@@ -149,13 +152,12 @@ footer {
 }
 
 /*<-----Gallery----->*/
+#gallery-section{
+    text-align: center;
+}
+
 #gallery-header {
-    margin-top: 50px;
-    border: 3px solid yellow;
-    padding:40px 20px 30px 20px;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
-    margin-bottom:20px;
+    margin-top: 120px;
 }
 
 #gallery {
