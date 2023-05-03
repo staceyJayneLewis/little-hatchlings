@@ -19,7 +19,7 @@ nav {
 }
 
 nav img {
-    width:13rem;
+    width:11rem;
 }
 
 /*callout*/
@@ -157,7 +157,7 @@ footer {
 }
 
 #gallery-header {
-    margin-top: 120px;
+    margin-top: 110px;
 }
 
 #gallery {
@@ -176,15 +176,14 @@ footer {
 /*<-----Contact Us----->*/
 
 .contact-us-header {
-    width:55%;
+    margin-top:110px!important;
+    width:250px;
     margin: 0 auto;
-    margin-top:120px!important;
 }
 
 .contact-us-header ul {
     list-style-type: none;
-    margin-top: 2rem;
-    margin-left:1rem;
+    padding:10px 0 0 35px;
 }
 
 .contact-us-header h4 {
@@ -194,6 +193,14 @@ footer {
 i {
     color:black;
     margin-right: 1rem;
+}
+
+form {
+    background-color:#5A31AD;
+}
+
+.white-box {
+    background-color:white;
 }
 
 form h4 {
