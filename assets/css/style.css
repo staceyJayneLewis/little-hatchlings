@@ -5,7 +5,14 @@
 
 .btn {
     background-color:yellow;
+    color:black;
 }
+
+i {
+    color:black;
+    margin-right: 1rem;
+}
+
 
 /*<-----Home----->*/
 
@@ -39,10 +46,6 @@ article {
 
 #callout p {
     padding-top: 6px;
-}
-
-#callout a {
-    color:white;
 }
 
 #callout img {
@@ -190,17 +193,12 @@ footer {
     text-align: center;
 }
 
-i {
-    color:black;
-    margin-right: 1rem;
+.form-section img {
+    width:100%;
 }
 
 form {
     background-color:#5A31AD;
-}
-
-.white-box {
-    background-color:white;
 }
 
 form h4 {
