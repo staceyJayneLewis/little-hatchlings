@@ -13,7 +13,6 @@ i {
     margin-right: 1rem;
 }
 
-
 /*<-----Home----->*/
 
 /*navbar*/
@@ -57,6 +56,10 @@ article {
     background-color:#5A31AD;
 }
 
+#carousel-buttons{
+    height:210px;
+}
+
 .carousel-inner{
     background-color: white;
     width:90%;
@@ -72,7 +75,7 @@ article {
 }
 
 .carousel-indicators {
-    bottom: 7rem;
+    bottom: 2rem;
 }
 
 .carousel-indicators li {
@@ -129,7 +132,7 @@ video {
     margin-top:120px!important;
     margin: 0 auto;
     text-align: center;
-    width: 400px;
+    width: 80%;
 }
 
 .gallery-section {
@@ -142,10 +145,31 @@ video {
 
 .gallery-images {
     background-color:#5A31AD;
+    padding-bottom:2px;
 }
 
 .gallery-images img {
     padding:4px;
+    border-radius:8%;
+}
+
+.gallery-images p{
+    text-align:center;
+    color:white;
+    font-size: 14px;
+}
+
+.gallery-header-2 {
+    text-align:center;
+}
+
+.gallery-images-2 img {
+    padding:4px;
+    border-radius:8%;
+}
+
+.underline {
+    text-decoration:underline 2.5px yellow;
 }
 
 /*<-----Contact Us----->*/
