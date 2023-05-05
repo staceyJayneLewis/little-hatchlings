@@ -13,8 +13,6 @@ i {
     margin-right: 1rem;
 }
 
-/*<-----Home----->*/
-
 /*navbar*/
 nav {
     border-bottom: 2px solid whitesmoke;
@@ -107,7 +105,7 @@ video {
     text-align:center;
 }
 
-/*Our Values*/
+/* Our Values */
 .our-values-section .col-12 {
     width:100%;
 }
@@ -120,7 +118,7 @@ video {
     width:100%;
 }
 
-/*<-----Gallery----->*/
+/* Gallery */
 #gallery-header {
     margin-top:120px!important;
     margin: 0 auto;
@@ -152,20 +150,7 @@ video {
     font-size: 14px;
 }
 
-.gallery-header-2 {
-    text-align:center;
-}
-
-.gallery-images-2 img {
-    padding:4px;
-    border-radius:8%;
-}
-
-.underline {
-    text-decoration:underline 2.5px yellow;
-}
-
-/*<-----Contact Us----->*/
+/* Contact Us */
 
 .contact-us-header {
     margin-top:110px!important;
@@ -182,20 +167,14 @@ video {
     padding:10px 0 0 35px;
 }
 
-.form-section {
-    width:100%;
-}
+/* Form */
 
-.form-section img {
+.form-section {
     width:100%;
 }
 
 form {
     background-color:#5A31AD;
-}
-
-.form label {
-    color:white;
 }
 
 form h4 {
@@ -212,23 +191,19 @@ form textarea {
     height: 7rem!important;
 }
 
-.form-map{
-    text-align:center;
-}
-
 .form-map input {
     width: 50%;
     height:2rem;
 }
 
-.form-map i{
-    background-color:yellow;
-    padding:8px;
+.map-search {
+    width:100%;
 }
 
 iframe {
     width:100%;
 }
+
 
 /*footer*/
 footer {
