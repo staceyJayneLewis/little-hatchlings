@@ -110,8 +110,6 @@ video {
 /*Our Values*/
 .our-values-section .col-12 {
     width:100%;
-    padding-left:0!important;
-    padding-right:0!important;
 }
 
 .our-values {
@@ -120,11 +118,6 @@ video {
 
 .our-values-img img{
     width:100%;
-}
-
-.row {
-    margin-left: 0!important;
-    margin-right: 0!important;
 }
 
 /*<-----Gallery----->*/
@@ -199,6 +192,10 @@ video {
 
 form {
     background-color:#5A31AD;
+}
+
+.form label {
+    color:white;
 }
 
 form h4 {
