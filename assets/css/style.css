@@ -16,6 +16,7 @@ i {
 /*navbar*/
 nav {
     border-bottom: 2px solid whitesmoke;
+    height:5rem;
 }
 
 .navbar-toggler {
@@ -23,7 +24,7 @@ nav {
 }
 
 nav img {
-    width:11rem;
+    width:16rem;
 }
 
 /*callout*/
@@ -147,10 +148,6 @@ video {
 
 .gallery-row {
     background-color: #5A31AD;
-}
-
-.gallery-section {
-    width:100%;
 }
 
 .gallery-images {
