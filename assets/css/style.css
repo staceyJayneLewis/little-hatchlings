@@ -126,16 +126,34 @@ video {
     width: 80%;
 }
 
+.gallery-container {
+    width: 100%;
+}
+
+.gallery-border {
+    width:100%;
+}
+
+.gallery-container p {
+    text-align:center;
+    font-weight: bold;
+    font-size:15px;
+}
+
+.gallery-container a {
+    color:white;
+    text-decoration: 2px yellow underline;
+}
+
+.gallery-row {
+    background-color: #5A31AD;
+}
+
 .gallery-section {
     width:100%;
 }
 
-.gallery-section img {
-    width:100%;
-}
-
 .gallery-images {
-    background-color:#5A31AD;
     padding-bottom:2px;
 }
 
@@ -229,8 +247,21 @@ footer {
 }
 
 /*responsive*/
-@media (min-width: 768px) {
-    .callout div {
-        text-align:left;
+@media (min-width: 992px) {
+    .gallery-row{
+        background-color:white;
     }
+
+    .gallery-border {
+        display: none;
+    }
+
+    .gallery-container a {
+        color:black;
+        text-decoration: underline #5A31AD 2px;
+    }
+
+    
+
+
 }
