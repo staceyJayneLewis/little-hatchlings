@@ -5,6 +5,7 @@
 
 body {
     margin-top: 70px;
+    font-family:'poppins';
 }
 
 .btn {
@@ -20,8 +21,18 @@ i {
 /*navbar*/
 nav {
     width:100%;
+    font-size:17px;
     height:70px;
     border-bottom: 2px solid whitesmoke;
+}
+
+nav li {
+    margin-right: 5px;
+}
+
+nav .active {
+    font-weight: 500;
+    text-decoration:underline 4px yellow;
 }
 
 nav img {
@@ -143,10 +154,6 @@ video {
 
 .gallery-border-white {
     display:none;
-}
-
-.gallery-section {
-    padding-top: 1rem;
 }
 
 .gallery-container p {
@@ -294,6 +301,11 @@ footer {
     .gallery-container a {
         color:black;
         text-decoration: underline #5A31AD 2px;
+    }
+
+    #section-two {
+        padding-top: 0px;
+        padding-bottom: 0px;
     }
 
     
