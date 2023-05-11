@@ -237,6 +237,12 @@ form textarea {
     height: 7rem!important;
 }
 
+.form-map-header {
+    text-align: center;
+    background-color:#ffffff;
+    color:#000000;
+}
+
 .form-map input {
     width: 50%;
     height:2rem;
@@ -244,6 +250,11 @@ form textarea {
 
 .map-search {
     width:100%;
+}
+
+.map-search i {
+    background-color:yellow;
+    padding: 7px;
 }
 
 iframe {
@@ -333,6 +344,14 @@ footer {
     .form-container {
         width:100%;
         background-color: #ffffff;
+        color:#000000;
     }
+
+    .form-map-header {
+        text-align: left;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
 
 }
