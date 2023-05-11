@@ -138,6 +138,11 @@ video {
 }
 
 /* Gallery */
+#gallery-header {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
 .gallery-heading {
     margin: 0 auto;
     text-align: center;
@@ -160,7 +165,7 @@ video {
 
 .gallery-container p {
     text-align:center;
-    font-weight: bold;
+    font-weight: 500;
     font-size:15px;
 }
 
@@ -299,7 +304,15 @@ footer {
     #gallery-header {
         background-color: #5A31AD;
         color:white;
+        padding-bottom: 0!important;
+        padding-top: 1.5rem;
+
     }
+
+    #gallery-header h4 {
+        color:yellow;
+    }
+    
 
     .gallery-row{
         background-color:white;
