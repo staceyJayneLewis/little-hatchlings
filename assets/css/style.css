@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Poppins:wght@300;400;500&display=swap');
+
 * {
     margin-top: 0;
     padding: 0;
@@ -5,7 +7,7 @@
 
 body {
     margin-top: 70px;
-    font-family:'poppins';
+    font-family:'poppins', 'arial';
 }
 
 .btn {
@@ -192,10 +194,13 @@ video {
 }
 
 /* Contact Us */
-
 .contact-us-header {
-    margin-top:110px!important;
-    width:250px;
+    margin-top:70px!important;
+    width:100%;
+}
+
+.contact-us-info {
+    width:300px;
     margin: 0 auto;
 }
 
@@ -205,17 +210,17 @@ video {
 
 .contact-us-header ul {
     list-style-type: none;
-    padding:10px 0 0 35px;
+    padding:10px 0 0 55px;
 }
 
 /* Form */
+.form-container {
+    background-color: #5A31AD;
+    color:white;
+}
 
 .form-section {
     width:100%;
-}
-
-form {
-    background-color:#5A31AD;
 }
 
 form h4 {
@@ -269,11 +274,15 @@ footer {
     color:darkslategrey;
 }
 
-/*responsive*/
+/*lg responsive*/
 @media (min-width: 992px) {
 
     nav img {
         width:15rem;
+    }
+
+    i {
+        color:black;
     }
 
     #gallery-header {
@@ -308,7 +317,22 @@ footer {
         padding-bottom: 0px;
     }
 
-    
+    .contact-us-header {
+        background-color: #5A31AD;
+        color:white;
+    }
 
+    .contact-us-header h4 {
+        color:yellow;
+    }
+
+    .contact-us-header i {
+        color:white;
+    }
+
+    .form-container {
+        width:100%;
+        background-color: #ffffff;
+    }
 
 }
