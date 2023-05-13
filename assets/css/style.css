@@ -222,10 +222,21 @@ video {
 .form-container {
     background-color: #5A31AD;
     color:white;
+    padding-top:2rem;
+}
+
+.form-heading {
+    text-align: center;
+}
+
+.text-muted {
+    color:yellow!important;
 }
 
 .form-section {
     width:100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 form h4 {
@@ -246,6 +257,7 @@ form textarea {
     text-align: center;
     background-color:#ffffff;
     color:#000000;
+    padding-top: 2rem;
 }
 
 .form-map input {
@@ -354,16 +366,28 @@ footer {
         color:white;
     }
 
+    .text-muted {
+       color: grey!important;
+    }
+
     .form-container {
         width:100%;
         background-color: #ffffff;
         color:#000000;
     }
 
+    .form-section {
+        padding-left: 3rem;
+    }
+
     .form-map-header {
-        text-align: left;
+        padding-top: 0;
         padding-right: 1rem;
         padding-left: 1rem;
+    }
+
+    .map {
+        padding-right: 2rem;
     }
 
 
