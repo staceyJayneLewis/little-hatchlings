@@ -20,6 +20,10 @@ i {
     margin-right: 1rem;
 }
 
+.underline{
+    text-decoration: underline 2px yellow;
+}
+
 /*navbar*/
 nav {
     width:100%;
@@ -187,7 +191,9 @@ video {
     padding-top: 40px;
     padding-bottom: 40px;
     background-color:white;
+    color:black;
 }
+
 
 .gallery-images img {
     padding:4px;
@@ -203,6 +209,11 @@ video {
 .gallery-links {
     padding: 0 1.5rem;
 }
+
+a:hover {
+    text-decoration: underline 2px yellow;
+}
+
 
 /* Contact Us */
 .contact-us-header {
