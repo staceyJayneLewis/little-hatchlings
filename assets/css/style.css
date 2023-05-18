@@ -206,7 +206,7 @@ video {
     font-size: 14px;
 }
 
-.gallery-links {
+.gallery-text {
     padding: 0 1.5rem;
 }
 
@@ -365,9 +365,21 @@ footer {
         text-decoration: underline #5A31AD 2px;
     }
 
+    .gallery-text {
+        color:black;
+    }
+
+    .underline {
+        text-decoration: underline #5A31AD 2px;
+    }
+
     #section-two {
         padding-top: 0px;
         padding-bottom: 0px;
+    }
+
+    .text-2{
+        display:none;
     }
 
     .contact-us-header {
