@@ -330,6 +330,15 @@ footer {
         color:black;
     }
 
+    #callout {
+        background-color:#5A31AD;
+        margin-top: 70px;
+    }
+
+    .mobile-img {
+        display: none;
+    }
+
     #gallery-header {
         background-color: #5A31AD;
         color:white;
