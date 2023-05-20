@@ -56,6 +56,11 @@ article {
 
 #callout {
     margin-top: 110px;
+    font-family:'Patrick Hand', cursive;
+}
+
+#callout img {
+    width:100%;
 }
 
 #callout div{
@@ -68,8 +73,8 @@ article {
     padding-top: 6px;
 }
 
-#callout img {
-    width:100%;
+.large-hero {
+    display:none;
 }
 
 /*reviews*/
@@ -330,13 +335,26 @@ footer {
         color:black;
     }
 
+    .mobile-hero {
+        display:none;
+    }
+
+    .large-hero {
+        display:block;
+    }
+
     #callout {
         background-color:#5A31AD;
         margin-top: 70px;
     }
 
-    .mobile-img {
-        display: none;
+    #callout div {
+        text-align:left;
+        color:black;
+    }
+
+    #callout h3 {
+        color:white;
     }
 
     #gallery-header {
