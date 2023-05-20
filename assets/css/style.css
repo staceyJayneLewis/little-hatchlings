@@ -77,6 +77,12 @@ nav img {
     background-color:#5A31AD;
 }
 
+.reviews img {
+    width:100%;
+    position:relative;
+    top:-120px;
+}
+
 #carousel-buttons{
     height:210px;
 }
@@ -336,6 +342,7 @@ footer {
 
     .large-hero {
         display:block;
+        min-width:700px;
     }
 
     .callout {
@@ -357,7 +364,7 @@ footer {
         color:white;
         font-size: 2.5rem;
     }
-    
+
     .carousel-inner{
         background-color: white;
         width:100%;
