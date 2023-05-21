@@ -120,19 +120,8 @@ video {
     width: 100%;
 }
 
-/*Achievements*/
 .achievements {
-    background-color: #5A31AD;
-}
-
-.card {
-    width: 100%;
-    height: 150px;
-    padding: 1rem;
-}
-
-.card p {
-    text-align: center;
+    background-color:#5A31AD;
 }
 
 /* Our Values */
