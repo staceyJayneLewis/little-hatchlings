@@ -64,6 +64,11 @@ nav img {
     font-size: 18px;
 }
 
+.callout-heading {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
 .callout-heading p {
     padding-top: 6px;
 }
@@ -122,21 +127,16 @@ video {
 }
 
 .achievements {
-    background-color:#8F73C7;
+    background-color: #8F73C7;
 }
 
 /* Our Values */
-.our-values-section {
-    width: 100%;
-}
-
 .our-values {
     text-align: center;
     padding: 2.5rem;
-    height: 100%;
 }
 
-.our-values-img img {
+.our-values-section img {
     width: 100%;
 }
 
@@ -317,6 +317,28 @@ footer {
     color: darkslategrey;
 }
 
+@media (min-width: 768px) {
+    .our-values-section {
+        width: 100%;
+    }
+
+    .our-values {
+        padding-top: 10%;
+    }
+
+    .our-values-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .our-values-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+}
+
 /*lg responsive*/
 @media (min-width: 992px) {
 
@@ -332,14 +354,11 @@ footer {
         display: none;
     }
 
-    .large-hero {
-        display: block;
-        min-width: 700px;
-    }
-
     .callout {
+        width:100%;
         background-color: #5A31AD;
         margin-top: 70px;
+        height: 80vh;
     }
 
     .callout div {
@@ -349,7 +368,7 @@ footer {
     }
 
     .callout-heading {
-        padding: 3rem 8rem 0 2.5rem;
+        padding: 4rem 2rem 4rem 2rem;
     }
 
     .callout h3 {
@@ -357,11 +376,23 @@ footer {
         font-size: 2.5rem;
     }
 
-    .large-border {
+    .large-hero {
+        width:100%;
         display: block;
-        width: 100%;
-        position: absolute;
-        bottom: 130px;
+
+    }
+
+    .border-container {
+        width:100%;
+        position: relative;
+    }
+
+    .large-border {
+        width:100%;
+        display:block;
+        position:absolute;
+        bottom:-2rem;
+        left:0;
     }
 
     .carousel-indicators {
@@ -378,16 +409,7 @@ footer {
     }
 
     .about-us-section {
-        background-color:#ffffff;
-    }
-
-    .about-us {
-        padding: 4rem;
-    }
-
-    .our-values {
-        background-color:#ffffff;
-        padding: 4rem;
+        background-color: #ffffff;
     }
 
     #gallery-header {
