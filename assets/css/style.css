@@ -339,6 +339,23 @@ footer {
     color: darkslategrey;
 }
 
+/*sm responsive*/
+nav ul {
+    box-shadow: none;
+}
+
+nav ul li {
+    background-color:none;
+}
+
+nav .active {
+    border-left:none;
+    background-color:whitesmoke;
+    border-radius: 8%;
+    padding: 0 3px;
+}
+
+/* md responsive */
 @media (min-width: 768px) {
     .our-values-section {
         width: 100%;
