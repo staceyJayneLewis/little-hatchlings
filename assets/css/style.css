@@ -24,10 +24,6 @@ i {
     text-decoration: underline 2px yellow;
 }
 
-.active {
-    background-color:white;
-}
-
 /*navbar*/
 nav {
     width: 100%;
@@ -36,15 +32,26 @@ nav {
     border-bottom: 2px solid whitesmoke;
 }
 
-nav li {
+nav ul {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+nav ul li {
+    background-color:ghostwhite;
     margin-right: 5px;
     text-align: center;
 }
 
 nav .active {
-    font-weight: 500;
-    text-decoration: underline 4px yellow;
+    border-left:6px solid #5A31AD;
+    background-color:whitesmoke;
 }
+
+.active > .nav-link {
+    color: #5A31AD!important;
+    font-weight: bold;
+}
+
 
 nav img {
     width: 13rem;
