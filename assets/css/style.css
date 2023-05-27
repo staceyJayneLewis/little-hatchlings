@@ -134,13 +134,13 @@ blockquote {
 }
 
 /*About us*/
+video {
+    height:100%;
+}
+
 .about-us {
     text-align: center;
     padding: 2.5rem;
-}
-
-video {
-    height: 100%;
 }
 
 .achievements {
@@ -246,7 +246,7 @@ a:hover {
     margin: 0 auto;
 }
 
-.contact-us-header h2 {
+.contact-us-header h1 {
     text-align: center;
     font-family: 'Patrick Hand', cursive;
 }
