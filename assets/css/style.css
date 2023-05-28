@@ -22,7 +22,7 @@ i {
 
 .underline {
     text-decoration: 1px solid yellow;
-    padding:0!important;
+    padding: 0 !important;
 }
 
 /*navbar*/
@@ -38,19 +38,19 @@ nav ul {
 }
 
 nav ul li {
-    background-color:#ffffff;
+    background-color: #ffffff;
     margin-right: 5px;
     text-align: center;
 }
 
 nav .active {
-    border-left:6px solid #5A31AD;
-    background-color:whitesmoke;
+    border-left: 6px solid #5A31AD;
+    background-color: whitesmoke;
 }
 
-.active > .nav-link {
-    color: #5A31AD!important;
-    font-weight:500;
+.active>.nav-link {
+    color: #5A31AD !important;
+    font-weight: 500;
 }
 
 
@@ -70,19 +70,19 @@ nav img {
 }
 
 .callout span {
-    position:relative;
+    position: relative;
 }
 
 .callout .highlight {
-    position:absolute;
-    bottom:-0.20rem;
-    width:100%;
+    position: absolute;
+    bottom: -0.20rem;
+    width: 100%;
 }
 
-.callout .highlight-big{
-    width:100%;
-    position:absolute;
-    bottom:3px;
+.callout .highlight-big {
+    width: 100%;
+    position: absolute;
+    bottom: 3px;
 }
 
 .callout img {
@@ -152,7 +152,7 @@ blockquote {
 
 /*About us*/
 video {
-    height:100%;
+    height: 100%;
 }
 
 .about-us {
@@ -225,8 +225,8 @@ video {
     padding: 0 15px 15px 15px;
 }
 
-.gallery-icon-white{
-    display:none;
+.gallery-icon-white {
+    display: none;
 }
 
 #section-two {
@@ -268,14 +268,14 @@ a:hover {
     margin: 0 auto;
 }
 
-.contact-icon-white{
-    display:none;
+.contact-icon-white {
+    display: none;
 }
 
 .contact-us-header h2 {
     text-align: center;
     font-family: 'Patrick Hand', cursive;
-    letter-spacing:1px;
+    letter-spacing: 1px;
 }
 
 .contact-us-header ul {
@@ -372,13 +372,12 @@ nav ul {
 }
 
 nav ul li {
-    background-color:none;
+    background-color: none;
 }
 
 nav .active {
-    border-left:none;
-    background-color:whitesmoke;
-    border-radius: 8%;
+    border-left: none;
+    background-color: whitesmoke;
     padding: 0 3px;
 }
 
@@ -417,7 +416,7 @@ nav .active {
     }
 
     .callout {
-        width:100%;
+        width: 100%;
         background-color: #5A31AD;
         margin-top: 70px;
         height: 80vh;
@@ -427,7 +426,7 @@ nav .active {
         text-align: left;
         color: black;
         font-size: 20px;
-        height:100%;
+        height: 100%;
     }
 
     .callout-heading {
@@ -446,21 +445,21 @@ nav .active {
         object-fit: cover;
     }
 
-        .mobile-hero {
+    .mobile-hero {
         display: none;
     }
 
     .border-container {
-        width:100%;
+        width: 100%;
         position: relative;
     }
 
     .large-border {
-        width:100%;
-        display:block;
-        position:absolute;
-        bottom:-2rem;
-        left:0;
+        width: 100%;
+        display: block;
+        position: absolute;
+        bottom: -2rem;
+        left: 0;
     }
 
     .carousel-indicators {
@@ -489,7 +488,7 @@ nav .active {
 
     #gallery-header h2 {
         font-size: 40px;
-        color:yellow;
+        color: yellow;
     }
 
     #gallery-header h4 {
@@ -523,11 +522,11 @@ nav .active {
     }
 
     .gallery-icon-purple {
-        display:none;
+        display: none;
     }
 
     .gallery-icon-white {
-        display:inline-block;
+        display: inline-block;
     }
 
     .underline {
@@ -549,20 +548,20 @@ nav .active {
     }
 
     .contact-us-header h2 {
-        font-size:40px;
-        color:yellow;
+        font-size: 40px;
+        color: yellow;
     }
 
     .contact-us-header i {
         color: white;
     }
 
-    .contact-icon-purple{
-        display:none;
+    .contact-icon-purple {
+        display: none;
     }
 
-    .contact-icon-white{
-        display:inline-block;
+    .contact-icon-white {
+        display: inline-block;
     }
 
     .text-muted {
