@@ -21,7 +21,8 @@ i {
 }
 
 .underline {
-    text-decoration: underline 2px yellow;
+    text-decoration: 1px solid yellow;
+    padding:0!important;
 }
 
 /*navbar*/
@@ -66,6 +67,22 @@ nav img {
     margin-top: 110px;
     font: size 14px;
     text-align: center;
+}
+
+.callout span {
+    position:relative;
+}
+
+.callout .highlight {
+    position:absolute;
+    bottom:-0.20rem;
+    width:100%;
+}
+
+.callout .highlight-big{
+    width:100%;
+    position:absolute;
+    bottom:3px;
 }
 
 .callout img {
@@ -163,8 +180,9 @@ video {
     padding-bottom: 1rem;
 }
 
-#gallery-header h1 {
+#gallery-header h2 {
     font-family: 'Patrick Hand', cursive;
+    letter-spacing: 2px;
 }
 
 .gallery-heading {
@@ -204,7 +222,11 @@ video {
 }
 
 .gallery-images {
-    padding: 15px;
+    padding: 0 15px 15px 15px;
+}
+
+.gallery-icon-white{
+    display:none;
 }
 
 #section-two {
@@ -246,9 +268,14 @@ a:hover {
     margin: 0 auto;
 }
 
-.contact-us-header h1 {
+.contact-icon-white{
+    display:none;
+}
+
+.contact-us-header h2 {
     text-align: center;
     font-family: 'Patrick Hand', cursive;
+    letter-spacing:1px;
 }
 
 .contact-us-header ul {
@@ -458,7 +485,11 @@ nav .active {
         color: white;
         padding-bottom: 0 !important;
         padding-top: 1.5rem;
+    }
 
+    #gallery-header h2 {
+        font-size: 40px;
+        color:yellow;
     }
 
     #gallery-header h4 {
@@ -491,6 +522,14 @@ nav .active {
         color: black;
     }
 
+    .gallery-icon-purple {
+        display:none;
+    }
+
+    .gallery-icon-white {
+        display:inline-block;
+    }
+
     .underline {
         text-decoration: underline #5A31AD 2px;
     }
@@ -510,11 +549,20 @@ nav .active {
     }
 
     .contact-us-header h2 {
-        color: yellow;
+        font-size:40px;
+        color:yellow;
     }
 
     .contact-us-header i {
         color: white;
+    }
+
+    .contact-icon-purple{
+        display:none;
+    }
+
+    .contact-icon-white{
+        display:inline-block;
     }
 
     .text-muted {
