@@ -21,7 +21,7 @@ i {
 }
 
 .underline {
-    text-decoration: 1px solid yellow;
+    text-decoration: underline yellow 2px;
     padding: 0 !important;
 }
 
