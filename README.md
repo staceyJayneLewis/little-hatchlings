@@ -240,7 +240,7 @@ Ideally, you should provide an actual link to every resource used, not just a ge
 | [Bootstrap Lightbox](https://lokeshdhakar.com/projects/lightbox2/) | Gallery Page | Tool to make gallery images larger when clicked
 | [Stackoverflow](https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel) | Home Page | Help to change arrow colour on carousel in the reviews section of the index.html
 | [Stackoverflow](https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel) | Home Page | Help to change arrow colour on carousel in the reviews section of the index.html
-| []() | Home Page | Help to change arrow colour on carousel in the reviews section of the index.html
+| [Stackoverflow](https://stackoverflow.com/questions/14029277/css-background-image-not-displaying) | gallery and contact page | Used to help me figure out why the background-image was not working for me
 
 https://stackoverflow.com/questions/69960612/putting-an-image-below-the-nav-bar-bootstrap-and-css-without-it-being-overlapped
 https://getbootstrap.com/docs/4.0/components/navbar/#:~:text=%3E-,Color%20schemes,customize%20with%20.bg%2D*%20utilities
