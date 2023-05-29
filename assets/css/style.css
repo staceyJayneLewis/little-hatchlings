@@ -15,11 +15,6 @@ body {
     color: black;
 }
 
-i {
-    color: black;
-    margin-right: 1rem;
-}
-
 .underline {
     text-decoration: underline yellow 2px;
     padding: 0 !important;
@@ -361,10 +356,10 @@ footer {
     list-style:none;
 }
 
-
-.social-icons li a {
-    color: darkslategrey;
+.social-icons li i{
+    color:darkslategrey;
 }
+
 
 .social-icons li a i {
     margin: 0 auto;
@@ -378,6 +373,10 @@ footer {
     
     nav ul li {
         background-color: none;
+    }
+
+    nav .active {
+        border-left: none;
     }
 
     nav img {
