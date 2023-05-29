@@ -103,7 +103,7 @@ nav img {
     padding-top: 6px;
 }
 
-.callout-heading h1 {
+.callout-heading h2 {
     font-family: 'Patrick Hand', cursive;
 }
 
@@ -430,12 +430,12 @@ nav .active {
     }
 
     .callout-heading {
-        padding: 4rem 2rem 4rem 2rem;
+        padding: 65px 40px;
     }
 
-    .callout h1 {
+    .callout h2 {
         color: white;
-        font-size: 2.5rem;
+        font-size: 3.5rem;
     }
 
     .large-hero {
