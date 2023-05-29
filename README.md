@@ -192,14 +192,14 @@ This project can be cloned or forked in order to make a local copy on your own s
 	
 You can clone the repository by following these steps:
 	
-	1. Go to the [GitHub repository](https://github.com/staceyJayneLewis/little-hatchlings) 
-	2. Locate the Code button above the list of files and click it 
-	3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
-	4. Open Git Bash or Terminal
-	5. Change the current working directory to the one where you want the cloned directory
-	6. In your IDE Terminal, type the following command to clone my repository:
-		- `git clone https://github.com/staceyJayneLewis/little-hatchlings.git`
-	7. Press Enter to create your local clone.
+1. Go to the [GitHub repository](https://github.com/staceyJayneLewis/little-hatchlings) 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash or Terminal
+5. Change the current working directory to the one where you want the cloned directory
+6. In your IDE Terminal, type the following command to clone my repository:
+    - `git clone https://github.com/staceyJayneLewis/little-hatchlings.git`
+7. Press Enter to create your local clone.
 	
 Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
 	
@@ -213,9 +213,9 @@ A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/conf
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
 You can fork this repository by using the following steps:
 	
-	1. Log in to GitHub and locate the [GitHub Repository](https://github.com/staceyJayneLewis/little-hatchlings)
-	2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-	3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/staceyJayneLewis/little-hatchlings)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 	
 ### Local VS Deployment
 
@@ -242,12 +242,12 @@ Ideally, you should provide an actual link to every resource used, not just a ge
 | [Stackoverflow](https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel) | Home Page | Help to change arrow colour on carousel in the reviews section of the index.html
 | []() | Home Page | Help to change arrow colour on carousel in the reviews section of the index.html
 
-	https://stackoverflow.com/questions/69960612/putting-an-image-below-the-nav-bar-bootstrap-and-css-without-it-being-overlapped
-	https://getbootstrap.com/docs/4.0/components/navbar/#:~:text=%3E-,Color%20schemes,customize%20with%20.bg%2D*%20utilities
-	https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel
-	https://www.w3docs.com/snippets/css/how-to-auto-resize-an-image-to-fit-an-html-container.html
-	https://stackoverflow.com/questions/12415661/using-marginauto-to-vertically-align-a-div
-	https://www.freeconvert.com/video-compressor/download - to condense video
+https://stackoverflow.com/questions/69960612/putting-an-image-below-the-nav-bar-bootstrap-and-css-without-it-being-overlapped
+https://getbootstrap.com/docs/4.0/components/navbar/#:~:text=%3E-,Color%20schemes,customize%20with%20.bg%2D*%20utilities
+https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel
+https://www.w3docs.com/snippets/css/how-to-auto-resize-an-image-to-fit-an-html-container.html
+https://stackoverflow.com/questions/12415661/using-marginauto-to-vertically-align-a-div
+https://www.freeconvert.com/video-compressor/download - to condense video
 https://capture-education.co.uk/blog/2018/04/25/5-ways-a-nursery-website-can-benefit-you/ 
 
 ### Media
@@ -263,19 +263,19 @@ https://capture-education.co.uk/blog/2018/04/25/5-ways-a-nursery-website-can-ben
 	The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
 by sending yourself the following command: `!freemedia`. -->
 
-	| Source | Location | Type | Notes |
-	| --- | --- | --- | --- |
-	| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-	| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
-	| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-	| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-	| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-	| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-	| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
-	| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
-	| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| Source | Location | Type | Notes |
+| --- | --- | --- | --- |
+| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
+| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
+| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
+| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
+| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
+| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
+| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
+| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
+| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
 	
-	### Acknowledgements
+### Acknowledgements
 <!-- 
     	Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
 A few examples have been provided below to give you some ideas. 
