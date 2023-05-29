@@ -20,7 +20,8 @@ When conducting research on external sources 'capture education website'(link in
 
 When looking at the chart one of the important features is a meet the staff page which shows images of all the staff however it could be a future feature as there are more important features needed such as showing the facilities and gallery to increase customer interaction and reputation.
 
-Structure - For the structure of the navigation bar I decided to stick with the usual conventions as that is what users expect, there is no need to make the website complex as it won't retain the users attention. Also, simply a factful approach can demonstrate the companies reputation and ratings easier. 
+Structure - For the structure of the navigation bar I used a nested list and for positoning of the navbar decided to stick with the usual conventions as that is what users expect, there is no need to make the product complex as it won't retain the users attention. Therefore, I have made sure that the users need as little clicks/scrolling as possible to get to their desitination has made the website user friendly with the navigation bar fixed at the top and buttons on each section for an easier experience. 
+Also to stick to the conventions expected by users I have used a hover styling as an interactive element on the 'Our hatchlings' button on the gallery for mobile devices to demostrate it is clickable. 
 
 Skeleton Plane -  
 
@@ -31,17 +32,18 @@ Surface Plane - The website needs to be friendly as the website will be the firs
 
 ### Colour Scheme
 
-For color scheme I decided that as the target audience are the parents of the children that the 3 colors white, purple and yellow would be enough to look professional and playful but it also doesn't distract the users with too much colors.  My logo little hatchlings has a chick icon in the logo to represent the 'hatchlings' in the name and the stereotypical color for a chick in design is yellow but also yellow can symbolize the unisex and happy element of the nursery.
+For colour scheme I decided that as the target audience are the parents of the children that the 3 colours white, purple and yellow would be enough to look professional and playful but it also doesn't distract the users with too much colour.  My logo little hatchlings has a chick icon in the logo to represent the 'hatchlings' in the brand name and the stereotypical colour for a chick in design is yellow but also yellow can symbolize the unisex and the 'happy' element of the nursery.
 
-The purple has been used in the illustration hero image to symbolize the child 'out in space' and so I have also carried that color through the website to keep the theme consistent through the website. The purple has also been useful on text and informative design elements
+The yellow has been used to highlight the important interactive buttons across the website and mobile devices such as form buttons, search buttons and quick access buttons but also to attract user attention to important headings. Yellow has also been incorperated in the callout section design as it has highlighted the important wording with an yellow underline in the heading for the visual communication. 
+The purple (#5A31AD) has been used in the illustration hero image to symbolize the child 'out in space' and so I have also carried that colour through the website to keep the color scheme and theme consistent through the website. The purple has also been useful for the design background colours and interactive elements such as links on navbar and gallery.
+I have used both yellow and purple colours throughout the device designs so that the page designs flow nicely into each other and can be clearly identified as one.
 
-I have used both colors throughout the website so that the page designs flow nicely into each other and can be clearly identified as one.
--yellow used to highlight the key areas.
+The black (#000000) and white (#ffffff) have been used for the primary text and secondary text across the mobile, tablet and website devices alternating the colour of the primary/secondary text depending on the device size. 
 	
-- `#000000` used for primary text.
+- `#000000` used for primary/secondary text.
+- `#ffffff` used for primary/secondary text.
 - `yellow` used for primary highlights.
-- `yellow` used for secondary text.
-- `##5A31AD` used for secondary highlights.
+- `#5A31AD` used for highlights/background colours.
 
 I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-8f73c7-000000) to generate my colour palette.
 
