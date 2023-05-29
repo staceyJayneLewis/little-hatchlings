@@ -13,7 +13,7 @@
 
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-sm navbar-light fixed-top" style="background-color:white">
+    <nav class="navbar navbar-expand-sm navbar-light fixed-top">
         <a class="navbar-brand" href="index.html"><img src="assets/images/little-hatchlings-logo.png"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
             aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,15 +36,15 @@
     </nav>
 
     <!-- Header -->
-    <div class="contact-us-header pt-5 mx-0">
+    <div class="contact-us-header pt-5">
         <div class="contact-us-info">
             <h2><img src="assets/images/contact-icon-purple.png" class="contact-icon-purple" width="50px"><img
                     src="assets/images/contact-icon-white.png" class="contact-icon-white" width="50px"> Contact Us</h2>
-            <ul>
-                <li><i class="fa-solid fa-phone"></i>01246 782465</li>
-                <li><i class="fa-solid fa-envelope"></i>hatchlings@gmail.com</li>
-                <li><i class="fa-brands fa-twitter"></i>@LittleHatchlings</li>
-            </ul>
+                <ul>
+                    <li><i class="fa-solid fa-phone"></i>01246 782465</li>
+                    <li><i class="fa-solid fa-envelope"></i>hatchlings@gmail.com</li>
+                    <li><i class="fa-brands fa-twitter"></i>@LittleHatchlings</li>
+                </ul>
         </div>
         <img class="gallery-border" src="assets/images/border-thin.png" alt="gallery pattern">
         <img class="gallery-border-white" src="assets/images/border-thin-white.png" alt="gallery pattern white">
@@ -61,7 +61,7 @@
                 <form action="confirmation.html">
                     <div class="form-group row">
                         <label for="name" class="col-12 col-form-label">Full Name:</label>
-                        <div class="col-12 mb-3">
+                        <div class="col-12">
                             <input type="text" class="form-control" id="name">
                             <small class="text-muted">*required</small>
                         </div>
@@ -76,14 +76,13 @@
                     <div class="form-group row">
                         <label for="number" class="col-12 col-form-label">Contact Number:</label>
                         <div class="col-12">
-                            <input type="number" class="form-control" id="number" required>
-                            <small class="text-muted">*required</small>
+                            <input type="number" class="form-control" id="number">
                         </div>
                     </div>
                     <div class="message-area mb-3">
                         <label for="message">Message:<br></label>
                         <textarea class="form-control" id="message" placeholder="Enter message here"></textarea>
-                        
+                        <small class="text-muted">*required</small>
                     </div>
                     <div class="form-group row">
                         <div class="col-12 mb-3">

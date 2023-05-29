@@ -25,6 +25,7 @@ nav {
     width: 100%;
     font-size: 17px;
     height: 70px;
+    background-color: white;
     border-bottom: 2px solid whitesmoke;
 }
 
@@ -170,9 +171,8 @@ video {
 }
 
 /* Gallery */
-#gallery-header {
-    padding-top: 1.5rem;
-    padding-bottom: 1rem;
+#gallery-header{
+    height: 40vh;
 }
 
 #gallery-header h2 {
@@ -259,8 +259,18 @@ a:hover {
 }
 
 .contact-us-info {
-    width: 300px;
+    width:300px;
+    margin:0 auto;
+}
+
+.contact-us-info ul {
+    width:300px;
     margin: 0 auto;
+    padding: 10px 0 10px 65px;
+} 
+
+.contact-us-info li i {
+    margin-right: 10px;
 }
 
 .contact-icon-white {
@@ -275,7 +285,6 @@ a:hover {
 
 .contact-us-header ul {
     list-style-type: none;
-    padding: 10px 0 0 55px;
 }
 
 /* Form */
@@ -483,10 +492,8 @@ footer {
     }
 
     #gallery-header {
-        background-color: #5A31AD;
         color: white;
-        padding-bottom: 0 !important;
-        padding-top: 1.5rem;
+        background-image: url(/assets/images/gallery-bg.png);
     }
 
     #gallery-header h2 {
