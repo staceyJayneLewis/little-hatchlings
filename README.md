@@ -25,7 +25,7 @@ Also to stick to the conventions expected by users I have used a hover styling a
 
 Skeleton Plane -  
 
-Surface Plane - The website needs to be friendly as the website will be the first thing they see when looking for childcare for they children.
+Surface Plane - As mentioned previously, the website needs to be friendly as the website will be the first thing they see when looking for childcare for they children and so the design needs to be appealing and stand out.
 
 ## UX
 <!-- In this section, you will briefly explain your design processes. -->
@@ -42,10 +42,10 @@ The black (#000000) and white (#ffffff) have been used for the primary text and 
 	
 - `#000000` used for primary/secondary text.
 - `#ffffff` used for primary/secondary text.
-- `yellow` used for primary highlights.
+- `#ffff00` used for primary highlights.
 - `#5A31AD` used for highlights/background colours.
 
-I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-8f73c7-000000) to generate my colour palette.
+I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate my colour palette.
 
 ![screenshot](documentation/coolors.png)
 
