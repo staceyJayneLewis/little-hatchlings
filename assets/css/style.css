@@ -198,10 +198,6 @@ video {
     width: 100%;
 }
 
-.gallery-border-white {
-    display: none;
-}
-
 .gallery-container p {
     text-align: center;
     font-weight: 500;
@@ -261,6 +257,7 @@ a:hover {
 .contact-us-info {
     width:300px;
     margin:0 auto;
+    padding-top: 2.5rem;
 }
 
 .contact-us-info ul {
@@ -516,11 +513,6 @@ footer {
         display: none;
     }
 
-    .gallery-border-white {
-        width: 100%;
-        display: block;
-    }
-
     .gallery-container {
         background-color: #5A31AD;
     }
@@ -556,7 +548,9 @@ footer {
     }
 
     .contact-us-header {
-        background-color: #5A31AD;
+        height: 40vh;
+        background: url(/assets/images/contact-bg.png) center center no-repeat;
+        background-size: cover;
         color: white;
     }
 
@@ -569,16 +563,20 @@ footer {
         color: white;
     }
 
+    .contact-us-info {
+        padding-top: 3rem;
+    }
+
     .contact-icon-purple {
         display: none;
     }
 
     .contact-icon-white {
-        display: inline-block;
+        display:inline-block;
     }
 
     .text-muted {
-        color: grey !important;
+        color: darkslategray !important;
     }
 
     .form-container {
