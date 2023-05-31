@@ -1,16 +1,19 @@
 # LITTLE HATCHLINGS
 
 <!-- overview of project -->
-Finding a childcare nursery can be a daunting experience for parents as they have the worry of leaving their precious bundle of joy in the care of trusted staff. There are many nurseries around but how do you know which nursery is best for your little one? Many nurseries like Little Hatchlings do not have a website or have a Facebook website rather than investing in a website. 
-After I conducted a survey on survey monkey (link in the sources) I can see most parents use online as their first way of searching for a nursery or contact information for a nursery and a website is the perfect way to give that first impression to your target audience, so how can we achieve that?
-
-<!-- what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience. -->
-The Strategy - The nursery's target audience are parents and the goal is to create a website for Little Hatchlings so we can use the power of the website to persuade our audience that this is the nursery that they want to put their child/children in. Needs and wants of the target audience are reassurance that they are putting their child in a nursery where they are safe, comfortable with the staff and are properly taken care of in the absence of the parents(food, water, nappy, changes etc). Another need that the user wants to see is that their child will develop their social skills, confidence and learning skills to a high standard whilst at the nursery in preperation for mainstream schooling. 
-To help achieve a successful website I have listened to the parents most common responses on the survey I conducted and used that information to decide on the hierarchy/order of the website such as to provide the reassurance by displaying awards they've had, reviews/customer feedback, ofsted rating, google ratings, day nurseries rating awards.
+Little Hatchlings is a chilcare nursery that are looking to stand out compared to other competitior nurseries to increase the number of applications and so the business owners are looking to invest in a website that will give a good representation of the nursery and what they can expect.
+Many nurseries like Little Hatchlings do not have a website at all or depend on social media pages such as facebook, twitter etc to hold the contact information and updates. 
+After I conducted my own research online and creating my own survey on surveyMonkey (https://www.surveymonkey.co.uk/r/WXV275K) I can see most parents use online as their first way of searching for a nursery or contact information for a nursery and a website is the perfect way to give that first impression to your target audience, so how can we achieve that?
 
 http://amiresponsive.co.uk/?site=http%3A%2F%2Fstaceyjaynelewis.github.io%2Flittle-hatchlings
 
 ![screenshot](documentation/mockup.png)
+
+## UX
+
+<!-- what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience. -->
+The Strategy - The nursery's target audience are parents and the goal is to create a website for Little Hatchlings so we can use the power of the website to persuade our audience that this is the nursery that they want to put their child/children in. Needs and wants of the target audience are reassurance that they are putting their child in a nursery where they are safe, comfortable with the staff and are properly taken care of in the absence of the parents(food, water, nappy, changes etc). Another need that the user wants to see is that their child will develop their social skills, confidence and learning skills to a high standard whilst at the nursery in preperation for mainstream schooling. 
+To help achieve a successful website I have listened to the parents most common responses on the survey I conducted and used that information to decide on the hierarchy/order of the website such as to provide the reassurance by displaying awards they've had, reviews/customer feedback, ofsted rating, google ratings, day nurseries rating awards.
 
 Scope - I have noticed other nursery sites laying out their pages in what the nursery THINK is priority information the parents want to see instead of what the parents REALLY want to see, so designing the website based on the customers reponses/feedback is just one of the things we can offer that make our website stand out to other websites. 
 
@@ -27,8 +30,6 @@ Skeleton Plane -
 
 Surface Plane - As mentioned previously, the website needs to be friendly as the website will be the first thing they see when looking for childcare for they children and so the design needs to be appealing and stand out.
 
-## UX
-<!-- In this section, you will briefly explain your design processes. -->
 
 ### Colour Scheme
 
@@ -49,9 +50,9 @@ I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate 
 
 ![screenshot](documentation/coolors.png)
 
+
 ### Typography
 
-	
 Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
 	
 Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
@@ -67,7 +68,7 @@ Example:
 
 ## User Stories
 
-<!-- ### New Site Users
+### New Site Users
 	
 - As a new site user, I would like to ____________, so that I can ____________.
 - As a new site user, I would like to ____________, so that I can ____________.
@@ -116,8 +117,53 @@ Wireframes were developed for mobile, tablet, and desktop sizes so I have used [
 ## Features
 
 ### Existing Features
+
+**Brand logo**
 	
-- **Gallery & facilities page**
+- When deciding a brand name for my nursery I decided little hatchlings would be very fitting as it symbolises that the children are young and growing together all in one place. I created the logo myself using a fun and childlike handrawn typeface to represent the playful, fun and creative aspect of our nursery.
+	
+![screenshot](documentation/feature02.png)
+
+**Navigation Bar**
+	
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+	
+![screenshot](documentation/feature03.png)
+
+**Hero callout image**
+	Calls to action prompts
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+	
+![screenshot](documentation/feature03.png)
+
+**Carousel of testimonials**
+	
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+	
+![screenshot](documentation/feature03.png)
+
+**Video & about us section**
+	Calls to action prompts
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+	
+![screenshot](documentation/feature03.png)
+
+**Awards and achievements**
+	
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+	
+![screenshot](documentation/feature03.png)
+
+**Our Values section**
+	Calls to action prompts
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+**Footer**
+- Social media links
+
+![screenshot](documentation/feature03.png)
+
+**Gallery & facilities page**
 	
 - I decided that creating a whole facilities page may not be feasible in the timescale that I have and so I incorperated the facilities in the gallery page by seperating the gallery into two sections. The reason behind this is because parents want to see the enviroment that their child will be in whilst at the nursery and the images of the rooms, outdoor area etc sets an idea of what it is like and may entice them to book a viewing at the nursery.
 
@@ -128,31 +174,46 @@ Wireframes were developed for mobile, tablet, and desktop sizes so I have used [
 - I have also used the bootstrap lightbox feature to allow the images to be viewed in large scale as the images are in 2 columns rather than 1. I made the decision to use 2 columns on small devices to make it user friendly so if more images are added in future it is not exhaustive for the user as they can see more selection on their screen rather than scrolling each individual photo. An example of the lightbox feature is below:
 
 ![screenshot](documentation/gallery-lightbox.png)
-	
-- **Title for feature #2**
-	
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-	
-![screenshot](documentation/feature02.png)
-	
-- **Title for feature #3**
+
+gallery header - 
+
+**Awards and achievements**
 	
 - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 	
 ![screenshot](documentation/feature03.png)
 
-<!-- Repeat as necessary for as many features as your site contains. e.g Brand name and logo, Contact and social media information Calls to action prompts and buttons, about us page, search functionality-->
+**Contact Header**
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+	
+![screenshot](documentation/feature03.png)
+
+**Contact Form**
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+	
+![screenshot](documentation/feature03.png)
+
+**Map search**
+- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+	
+![screenshot](documentation/feature03.png)
 
 ### Future Features
 
-- Check-in booking system
-	- An idea could be a check in system for the children on the website or a dashboard where you can see updates throughout the day such as nappy changes, food menu, any medications taken etc to encourage customers to come back and interact with the website more. 
-- Staff page displaying all the staff members
-    - A page that has all the qualified staff members is important to have so the parents can see who will be looking after their children and putting faces to names can help parents build the relationship and trust with the staff. It can also reassure them to see the qualifications and experience that the staff members have.
-- About Us Page
-	 - I would like to add an about page where I can go more in depth on the backrgound/history of the Nursery because I noticed that every response I had from my survey I conducted said they do like to read about the background of the nursery.
-- Update/News section
-    - Having a section with updates or recent changes on the nursery would be useful however it is not essential as reflecting on my surveyMonkey responses most customers would refer to our social media page for news/updates. 
+**Check-in booking system**
+- An idea could be a check in system for the children on the website or a dashboard where you can see updates throughout the day such as nappy changes, food menu, any medications taken etc to encourage customers to come back and interact with the website more. 
+
+**Staff page displaying all the staff members**
+- A page that has all the qualified staff members is important to have so the parents can see who will be looking after their children and putting faces to names can help parents build the relationship and trust with the staff. It can also reassure them to see the qualifications and experience that the staff members have.
+
+**About Us Page**
+- I would like to add an about page where I can go more in depth on the backrgound/history of the Nursery because I noticed that every response I had from my survey I conducted said they do like to read about the background of the nursery.
+
+**Update/News section**
+- Having a section with updates or recent changes on the nursery would be useful however it is not essential as reflecting on my surveyMonkey responses most customers would refer to our social media page for news/updates. 
+
+**Language options**
+- Giving the choice of languages to our users, particularly welsh language as the nursery is based in Wales. Ideally next to the contact us on the navigation bar or on the callout page you could have the choice to switch to welsh language.
 
 ## Tools & Technologies Used
 	
@@ -170,11 +231,12 @@ Wireframes were developed for mobile, tablet, and desktop sizes so I have used [
 - [Free Convert](https://www.freeconvert.com/video-compressor/download) used to condense the video on the index.html about section to 1MB
 - [Vimeo](https://vimeo.com/830718795?share=copy) used to help put the video clips together and make the full video and effects.
 - [Balsamiq](https://balsamiq.com/wireframes) used to create the wireframes for the website ideas/mock ups.
+- [Survey Monkey](https://www.surveymonkey.co.uk/r/WXV275K) used to create the surveys that users take.
 
 ## Testing
 	
 For all testing, please refer to the [TESTING.md](TESTING.md) file.
-	
+
 ## Deployment
 	
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
