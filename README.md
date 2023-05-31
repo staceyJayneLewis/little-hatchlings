@@ -22,9 +22,12 @@ When looking at the chart, one of the important features is a, meet the staff pa
 Structure - For the structure of the navigation bar, I used a nested list and, for the positioning of the navbar, decided to stick with the usual conventions as that is what users expect. There is no need to make the product complex as it won't retain the users' attention. With this in mind, I have used a hierarchical structure for the website layout as it helps prioritize the design elements in order of importance and shows the key message and role of the particular pages.The hierarchical structure gives a good balance of it not being linear or complex as these structure layouts could be a disadvantage for nurseries' needs, such as forcing the user to follow the order of how they view the site or overload of information. 
 I have also made sure that the users need as little scrolling or clicks as possible to get to their destination by having a navigation bar fixed at the top and buttons on each section for a user-friendly, easy experience. Also, to stick to the conventions expected by users, I have used a hover selector as an interactive element on any call for action buttons to demonstrate that they are buttons. 
 
-Skeleton Plane -  
+Skeleton Plane - I have added a small amount of visual metaphors on the gallery and contact page headers as they are everyday icons users are likely to be familiar with that I can incorporate into the design.
+Wireframes - 
 
-Surface Plane - As mentioned previously, the website needs to be friendly as the website will be the first thing they see when looking for childcare for they children and so the design needs to be appealing and stand out.
+Surface Plane - sensory - tyopgraphy - font - images - transitions - order and sequence - layout - visable - videos.
+As mentioned previously, the website needs to be friendly as the website will be the first thing they see when looking for childcare for they children and so the design needs to be appealing and stand out.
+Navigation bar highlighing what home button
 
 
 ### Colour Scheme
@@ -49,15 +52,9 @@ I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate 
 
 ### Typography
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
+- [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand?query=patrick) was used from google fonts for the childlike primary headers and titles.
 	
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
-
-Example:
-
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-	
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
+- [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins) was used from google fonts for all other secondary text.
 	
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
@@ -66,8 +63,8 @@ Example:
 
 ### New Site Users
 	
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to have easy to find contact information or social media links so that I can simply contact the nursery with any queries and view updates on social media if necessary.
+- As a new site user, I would like to see a simple gallery, so that I can ____________.
 - As a new site user, I would like to ____________, so that I can ____________.
 - As a new site user, I would like to ____________, so that I can ____________.
 - As a new site user, I would like to ____________, so that I can ____________.
