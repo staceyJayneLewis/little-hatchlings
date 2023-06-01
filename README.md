@@ -23,18 +23,15 @@ I have also made sure that the users need as little scrolling or clicks as possi
 
 Skeleton Plane - Creating the wireframes allowed me to determine what links and content would be useful to make the website user-friendly alongside prioritizing the content needed to achieve business goals. As I previously mentioned, I will use the survey feedback and my independent research to prioritize the layout of the website so that in the wireframes I can see visually how they will be organized, such as the testimonials to the top of the page just under the callout heading, then about the nursery and the awards and achievements that the nursery have achieved.
 I can see how each screen relates to each other and how the information will be laid out across all devices, which helps me see the style adjustments needed depending on different screen sizes. An example of this is how the text works better center aligned on mobile layouts rather than aligned to the left like on larger scale screens. This decision made it simple to carry out the style throughout the design for text and buttons to keep a smooth and easy user experience.
-The wireframes also allowed me to visually see how the layout will particularly work on laptops/computers as the mobile and iPad layouts are the same however the layout style would not work for larger devices as there would be too much space or the content would be too large. The mobile and iPad layouts are simple one-column layouts across all pages and therefore I can see that large devices would work better in 2 columns for example the gallery can be split into 2 sections on a large screen so the user can see all the options of images available. This is where I also decided I could use the Lightbox tool to allow users to select an image to view it bigger if needed. Originally, I tried the smaller device gallery layouts as one column but the reason I had the gallery as 2 columns is so that the user can see the range of images rather than having one column and scroll through the many images one by one, and even though the images are smaller in 2 columns, the Lightbox tool allows users to view the images full screen when selected.
+The wireframes also allowed me to visually see how the layout will particularly work on laptops/computers as the mobile and iPad layouts are the same however the layout style would not work for larger devices as there would be too much empty space or the content would be too large. The mobile and iPad layouts are simple one-column layouts across all pages and therefore I can see that large devices would work better in 2 columns for example the gallery can be split into 2 sections on a large screen so the user can see all the options of images available. This is where I also decided I could use the Lightbox tool to allow users to select an image to view it bigger if needed. Originally, I tried the smaller device gallery layouts as one column but the reason I have the gallery as 2 columns is so that the user can see the range of images rather than having one column and scroll through the many images one by one, and even though the images are smaller in 2 columns, the Lightbox tool allows users to view the images full screen when selected.
 The navigation and footer will be the same across all devices however the wireframe allowed me to see that on smaller devices I would need to collapse the navigation bar as the text will not fit horizontally on small devices and that I would need to center the text on the dropdown to make sure it corresponds with structure of the design. I can also see where I would need to include any links and buttons that will improve user interaction and experience, which allows me to move on and discuss how I can make it clear visually with design. 
 
-
-Surface Plane - With this in mind, it reminded me that I also need to think about how the drop down will be styled and
-
-After seeing the information organsied in the wireframes it gives me ideas on what styles or effect can be used to improve user interactivity such having a carousel to display the testimonials so customers can click throught them at the pace they wish or scroll past them if they are not interested. 
-
- sensory - tyopgraphy - font - images - transitions - order and sequence - layout - visable - videos.
-As mentioned previously, the website needs to be friendly as the website will be the first thing they see when looking for childcare for they children and so the design needs to be appealing and stand out.  I have added a small amount of visual metaphors on the gallery and contact page headers as they are everyday icons users are likely to be familiar with that I can incorporate into the design.
-Navigation bar highlighing what home button
-
+Surface Plane - After seeing the information organsied in the wireframes it gives me ideas on what styles or effects can be used to improve the visual communication such highlighting the button of the current active page so that the user always knows what page their are currently on. I decided to use a lighter shade of purple for the button and then the usual purple colour for the button text to highlight the active button across all devices to keep with the consistent colour theme and because the yellow is not as prominant against the white background of the navigation bar. With this in mind, it reminded me that I also need to think about how I will style the dropdown bar and I have kept the purple colour but added a side border one the active button as it is a common style used for dropdowns and also a shadow on the dropdown itself to highlight the dropdown element more prominantly over background. 
+To add a bit more user interactiity I have decided to use a carousel to display the testimonials as it will automatically scroll through them for the users or they can click through them at their own pace. I have added a small amount of visual metaphors on the gallery and contact page headers as they are everyday icons users are likely to be familiar with that I can incorporate as part of the design.
+Typography & font - I have kept the choice of typography to just 2 different styles to not be overpowering on the eye of the users and so they can easily identify that the certain fonts are used for the headings and then the other for the more detailed information. I have used the google font 'Patrick Hands' for primary headings of each page for a childlike fun typeface to add more personality to the page and emphasise the playfulness of the nursery. For the rest of the text on the site I have used the google font 'Poppins' throughout for a consistent style and adjusted the weight on paragraph headings or the active navbar button to stand out more to the user.
+ - Font-size?
+ - Images & videos -
+ - layout and order of sequence - 
 
 ### Colour Scheme
 
@@ -231,6 +228,7 @@ gallery header -
 - [Vimeo](https://vimeo.com/830718795?share=copy) used to help put the video clips together and make the full video and effects.
 - [Balsamiq](https://balsamiq.com/wireframes) used to create the wireframes for the website ideas/mock ups.
 - [Survey Monkey](https://www.surveymonkey.co.uk/r/WXV275K) used to create the surveys that users take.
+- [Grammar Checker](https://prowritingaid.com/grammar-checker) to check grammar of the read me and website. 
 
 ## Testing
 	
@@ -347,20 +345,3 @@ A few examples have been provided below to give you some ideas.
 - I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
 
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- future -->
-If I had the time and resources what I would like to do after seeing the responses of my survey is to create a 'book a viewing' system for my website but also a system that allows you to sign your child into the nursery and sign them out.
- for example offering a booking system so you can book a viewing, displaying other parent reviews and showing any awards they have achieved. 
- showing the staff page
