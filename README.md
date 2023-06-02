@@ -169,7 +169,7 @@ For a convenient user expereience I have also included a 'Find a nursery' call f
 
 - For the our values section I have simply included a paragraph which displays clearly the values of the nursery which the nursery requested to be part of the homepage as another way of displaying to the viewers what their priorities are in the nursery. The styling is again, a simple white background with black text so the reader focuses solely on the information. A call for action button is used again but this time for the gallery as a quick suggestion of what the users may want to see next and another way of subtly keeping the users interacting with the website longer.
 
-![screenshot](documentation/our-values-features.png)
+![screenshot](documentation/our-values-feature.png)
 
 **Footer**
 - The footer is simply based at the bottom of the page with a grey background and the options of different social media links and contact information in black icons used from font awesome. The footers benefits are that its giving the options to view the nursery's online precence easily as they can see more real-time feedback from other parents and nursery updates. It is convenient as the links go directly to the social media websites so the users do not have to go looking for the websites independently, it is all in one place and responsive on different screen sizes. With this in mind, it can increase followers on their social media too and allow parents to share images of what their children have created at nursery etc.
@@ -179,8 +179,7 @@ For a convenient user expereience I have also included a 'Find a nursery' call f
 **Gallery & facilities page**
 	
 - I decided that creating a whole facilities page may not be feasible in the timescale that I have and so I incorperated the facilities in the gallery page by seperating the gallery into two sections. The reason behind this is because parents want to see the enviroment that their child will be in whilst at the nursery and the images of the rooms, outdoor area etc sets an idea of what it is like and may entice them to book a viewing at the nursery.
-
-- You can see below in the screenshot a layout of the gallery in desktop version and in smaller devices. I have made the heading links for the smaller devices so when clicked it will jump scroll to the second section quickly so it is user friendly.
+You can see below in the screenshot a layout of the gallery in desktop version and in smaller devices. I have made the heading links for the smaller devices so when clicked it will jump scroll to the second section quickly so it is user friendly. I designed the gallery heading backgroud which includes the colour purple that I have used throughout the website and subtle images of the gallery icon faded so the header matches the home page and complement each other. The smaller devices in the header has black text and icons with a white background but larger has a yellow header text with white secondary text and icons to follow the same styling as the homepage on large devices. 
 	
 ![screenshot](documentation/gallery-feature.png)
 
@@ -188,23 +187,20 @@ For a convenient user expereience I have also included a 'Find a nursery' call f
 
 ![screenshot](documentation/gallery-lightbox.png)
 
-gallery header - 
-
-**Awards and achievements**
-	
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-	
-![screenshot](documentation/feature03.png)
 
 **Contact Header**
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-	
-![screenshot](documentation/feature03.png)
+
+- For the contact header I have used the same design as I created for the gallery background using the purple but instead of the gallery icon I have used the phone icon to maintain the fun look throughout and again, to compliment the other pages. As the header is the first thing the user will see when visiting the page I have included the important information in the header such as the contact number, email and twitter information along with matching icons using font awesome. To highlight the header on the large devices I have used a yellow font for the 'contact' but the other information is all white to stand out against the background clearly. When making the responsive website I realised I have to adjust the styling to keep the same design layout for the smaller devices such as iPad and mobiles and so the header is a white background with black text and icons for the smaller devices. 
+
+![screenshot](documentation/contact-header-feature.png)
+
 
 **Contact Form**
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+- For the contact form I have made sure that it is styled in 1 column for the mobile and ipad devices but then for the larger screen sizes I have split the form section in to two columns so that the users can see the whole form and it is easily readible.
+I have styled the form depending on the device it is on, for example with mobile devices the form has a purple background with white primary text and yellow secondary text such as the required fields. Throughout the design I have used the colour yellow to highlight the important call to actions as so I have used the yellow for the form button across all screen sizes. The larger screen form has a white background and black text to adapt to the large design styling with grey muted text for the required fields.
 	
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/contact-form-feature.png)
 
 **Map search**
 - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
