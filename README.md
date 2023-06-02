@@ -78,10 +78,6 @@ I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate 
 - As a returning site user, I would like to regularly see updated images, so that I can see any photos of my child having fun at the nursery.
 - As a returning site user, I would like to check if there are are nursery centers near me if I move home, so that I can change the location of the nursery to a closer one.
 - As a returning site user, I would like to have easy acces to social media links, so that I can share any feedback or share the nursery images that have my child in.
-<<<<<<< HEAD
-- As a returning site user, I would like to see the website adding new features, so that I can do more things on the website such as book viewing online or see updates on an update panel.
-=======
->>>>>>> b882fe3e57561109a58532a25074112e12660469
 	
 ### Site Admin
 	
@@ -111,7 +107,8 @@ Wireframes were developed for mobile, tablet, and desktop sizes so I have used [
 
 | Size | Screenshot |
 | --- | --- |
-| From left to right: Mobile Tablet Desktop | ![screenshot](documentation/wireframes/contact-wireframe.jpg) |	
+| From left to right: Mobile Tablet Desktop | ![screenshot](documentation/wireframes/contact-wireframe.jpg) |
+
 
 ## Features
 
@@ -123,32 +120,41 @@ Wireframes were developed for mobile, tablet, and desktop sizes so I have used [
 Logo's are a way of identifying the business and gives the target audience an idea of what the company does. The target audience will recognize the brand and business by it's logo and may even make a judgement based on how the logo makes them feel and this is the value it will give having it on the website. 
 Having a logo will also benefit the users as when people are recommending the nursery or try to explain to other parents the location of the nursery by word of mouth, or online when shown the logo the parents may recognize the logo and where they have seen it before when passing by etc. 
 	
-![screenshot](documentation/logo.jpg)
+![screenshot](documentation/logo.png)
 
 **Navigation Bar**
 
 - The navigation bar consists of a simple inline top right corner list of buttons which all have a grey font unless they are on the active page. The active page has a light purple background color with bold purple text. The navbar page links include a hover effect on the pages they are not currently on so when hovering over that button the font changes a black colour instead of grey.
-With the mobile version it is the same design but I have a added a box shadow and purple border on the left to make it obvious to the user that it is a dropdown box overlaying the background and again, which page they are currently on. 
+With the mobile version it is the same design but I have a added a box shadow and purple border on the left to make it obvious to the user that it is a dropdown box overlaying the background and again, which page they are currently on.
+The benefit to the user is that it has been designed user friendly as the users do not have to be inconvenienced by scrolling back up to the top of the page to change pages and it is clearly highlighted which page they are on. 
+The value this brings to the company is a good impression for the nursery as it demonstrates we have thought from the users point of view and the user leaves the website happy due to the smooth use of the website not having to click on many things to get to their destination.
 
 ![screenshot](documentation/navbar-feature.png)
 
 **Hero callout image**
-	Calls to action prompts
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-	
-![screenshot](documentation/feature03.png)
+
+ - As previously mentioned in the UX section, I designed the hero image using a photo of my daughter in which I used photoshop and illustrator to help create the design. The heading says 'Watch their confidence grow as big as their imagination' in a child style typeface to create a fun childlike visual effect to compliment the illustration and the logo in the navbar. The heading inspired me to design the hero image, which is an illustration of an astronaut helmet drawn over an image of a child pretending to be flying out in space. I have used a hero image like this to keep the child-like playful design theme that is in the logo flow through the website design. The callout page is the first thing the user will see so it needs to be visually appealing and intrigue the user enough to want to keep scrolling and therefore this is why I have decided on this hero image. Also, some other nursery competitors have a website and so keeps up with the competition.
+ Most users trust a business that has a good website as they give a reliable impression and build credibility but also is a great interation tool between the business and the users.
+ The hero image also includes a call to action button that takes you to the contact page so if the user came to the website to look for contact information the option is there immediatley which makes it very convenient for the users too. 
+
+![screenshot](documentation/home-page-features.png)
+
 
 **Carousel of testimonials**
 	
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-	
-![screenshot](documentation/feature03.png)
+- I have used bootstrap to help create a carousel for the parent testimonials/reviews. It can benefit the customer as it scrolls automatically or they can use the buttons to scroll through at their own pace. Also, the user can see the reviews one at a time rather than all at once and being an overload of information, again referring to the hick's law it reduces the complex structure of information. The value the carousel brings to the site is to enable more than one piece of information to occupy the same piece of the website freeing up space for more features without it looking overcrowded. I have kept the carousel design styling very minimal as it will take away from the key feature which are the reviews. Also, I have made the carousel heading to be positioned above the fold of the callout page so that users know to scroll down for more information and the yellow highlight of the header catches the attention of the user. 
+
+![screenshot](documentation/carousel-feature.png)
+s
 
 **Video & about us section**
-	Calls to action prompts
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+- In the about section I have included a video which gives a tour of the nursery to show people what they can expect from the nursery and what the nursery looks like so they dont have the wait until they book a viewing. For first time parents they also get an idea of how a day to day work at the nusery and get the see the other children there is action. The value this could add is to encourage more people to apply for the nursery as the video can make them feel familiar with the nursery before even visiting.
+The video also gives a view of the different facilities and activities that the nursery have but it also is a good way to enhance the users retention rate on the website. 
+- The about section includes information on the history of the nursery which will give the users a background of the nursery and as seen in the survey responses this is something that they do pay attention to when choosing a nursery. Again, a plain white background with black text to make sure the user does not get distracted by any background styling and making it hard to read. 
+For a convenient user expereience I have also included a 'Find a nursery' call for action button to encourage the users to the contact page site where they can send us a message or check on maps to see which branch is the nearest. This tactic is a subtle way to probe the user to ask any questions they may have at the back of their minds easily as the form is already there infront of them which could potentially bring in more interest for the nursery. 
 	
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/about-video-feature.png)
 
 **Awards and achievements**
 	
