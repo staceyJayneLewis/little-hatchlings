@@ -117,14 +117,17 @@ Wireframes were developed for mobile, tablet, and desktop sizes so I have used [
 **Brand logo**
 	
 - When deciding a brand name for my nursery I decided little hatchlings would be very fitting as it symbolises that the children are young and growing together all in one place. I created the logo myself using a fun and childlike handrawn typeface to represent the playful, fun and creative aspect of our nursery.
+Logo's are a way of identifying the business and gives the target audience an idea of what the company does. The target audience will recognize the brand and business by it's logo and may even make a judgement based on how the logo makes them feel and this is the value it will give having it on the website. 
+Having a logo will also benefit the users as when people are recommending the nursery or try to explain to other parents the location of the nursery by word of mouth, or online when shown the logo the parents may recognize the logo and where they have seen it before when passing by etc. 
 	
-![screenshot](documentation/logo.png)
+![screenshot](documentation/logo.jpg)
 
 **Navigation Bar**
-	
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-	
-![screenshot](documentation/feature03.png)
+
+- The navigation bar consists of a simple inline top right corner list of buttons which all have a grey font unless they are on the active page. The active page has a light purple background color with bold purple text. The navbar page links include a hover effect on the pages they are not currently on so when hovering over that button the font changes a black colour instead of grey.
+With the mobile version it is the same design but I have a added a box shadow and purple border on the left to make it obvious to the user that it is a dropdown box overlaying the background and again, which page they are currently on. 
+
+![screenshot](documentation/navbar-feature.png)
 
 **Hero callout image**
 	Calls to action prompts
