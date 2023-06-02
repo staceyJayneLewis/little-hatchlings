@@ -122,6 +122,7 @@ Having a logo will also benefit the users as when people are recommending the nu
 	
 ![screenshot](documentation/logo.png)
 
+
 **Navigation Bar**
 
 - The navigation bar consists of a simple inline top right corner list of buttons which all have a grey font unless they are on the active page. The active page has a light purple background color with bold purple text. The navbar page links include a hover effect on the pages they are not currently on so when hovering over that button the font changes a black colour instead of grey.
@@ -130,6 +131,7 @@ The benefit to the user is that it has been designed user friendly as the users 
 The value this brings to the company is a good impression for the nursery as it demonstrates we have thought from the users point of view and the user leaves the website happy due to the smooth use of the website not having to click on many things to get to their destination.
 
 ![screenshot](documentation/navbar-feature.png)
+
 
 **Hero callout image**
 
@@ -156,20 +158,23 @@ For a convenient user expereience I have also included a 'Find a nursery' call f
 	
 ![screenshot](documentation/about-video-feature.png)
 
+
 **Awards and achievements**
 	
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+- The awards and achievment section are simple 4 images of any recent awards, certifications or rating that they have achieved agaisnt a purple background to section them into their own row. By displaying these on the website it will give the users visiting the site another great example of why they can trust the nursery and the reputation that they have. As children will be eating at the nursery providing the cleanliness or food hygiene awards will provide the reassurance that the parents are looking for and showing them exactly what they want to see. Also,im sure that the nursery will be proud to show the awards and achievements to as many people so the website is the best way to display them. 
 	
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/achievement-feature.png)
 
 **Our Values section**
-	Calls to action prompts
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+- For the our values section I have simply included a paragraph which displays clearly the values of the nursery which the nursery requested to be part of the homepage as another way of displaying to the viewers what their priorities are in the nursery. The styling is again, a simple white background with black text so the reader focuses solely on the information. A call for action button is used again but this time for the gallery as a quick suggestion of what the users may want to see next and another way of subtly keeping the users interacting with the website longer.
+
+![screenshot](documentation/our-values-features.png)
 
 **Footer**
-- Social media links
+- The footer is simply based at the bottom of the page with a grey background and the options of different social media links and contact information in black icons used from font awesome. The footers benefits are that its giving the options to view the nursery's online precence easily as they can see more real-time feedback from other parents and nursery updates. It is convenient as the links go directly to the social media websites so the users do not have to go looking for the websites independently, it is all in one place and responsive on different screen sizes. With this in mind, it can increase followers on their social media too and allow parents to share images of what their children have created at nursery etc.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/footer-feature.png)
 
 **Gallery & facilities page**
 	
