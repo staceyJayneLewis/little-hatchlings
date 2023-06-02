@@ -78,7 +78,10 @@ I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate 
 - As a returning site user, I would like to regularly see updated images, so that I can see any photos of my child having fun at the nursery.
 - As a returning site user, I would like to check if there are are nursery centers near me if I move home, so that I can change the location of the nursery to a closer one.
 - As a returning site user, I would like to have easy acces to social media links, so that I can share any feedback or share the nursery images that have my child in.
+<<<<<<< HEAD
 - As a returning site user, I would like to see the website adding new features, so that I can do more things on the website such as book viewing online or see updates on an update panel.
+=======
+>>>>>>> b882fe3e57561109a58532a25074112e12660469
 	
 ### Site Admin
 	
