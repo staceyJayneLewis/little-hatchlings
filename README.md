@@ -71,18 +71,19 @@ I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate 
 - As a new site user, I would like to see a simple gallery, so that I can get an idea of what the nursery looks like and the rooms/facilities they have.
 - As a new site user, I would like to see reviews and awards the nursery have achieved, so that I can be reassured that my child will be safe and looked after well.
 - As a new site user, I would like to see plenty of images or videos that will show the typical day at the nursery so that I can visualise what my child will be getting involved in.
-- As a new site user, I would like to see a visually appealing design that is informative with all information readily available so I don't need to be inconvenied to call.
+- As a new site user, I would like to see a visually appealing design that is informative with all information readily available so I don't need to be inconvenienced to call for general queries.
 	
 ### Returning Site Users
 	
 - As a returning site user, I would like to regularly see updated images, so that I can see any photos of my child having fun at the nursery.
-- As a returning site user, I would like to check if there are are nursery centers near me if I move home, so that I can change the location of the nursery to a closer one.
-- As a returning site user, I would like to have easy acces to social media links, so that I can share any feedback or share the nursery images that have my child in.
+- As a returning site user, I would like to check if there are nursery centres near me if I move home, so that I can change the location of the nursery to a closer one.
+- As a returning site user, I would like to have easy access to social media links, so that I can share any feedback or share the nursery images that have my child in.
+- As a returning site user, I would like to see a future feature where you can have your own account on the website and sign in to a platform which gets updated with your childs daily report such as nappy changes, medicines given, what food they have had etc. 
 	
 ### Site Admin
 	
 - As a site administrator, I should be able to add as many gallery photos, so that I can update them when needed without it compromising the layout of the design.
-- As a site administrator, I should be able to easily update information, so that I can regularly update the website if necessary.
+- As a site administrator, I should be able to easily update information, so that I can regularly update the website when necessary.
 - As a site administrator, I should be able to keep the website secure, so that I can make sure no hackers access the site.
 - As a site administrator, I should be able to add new features to develop the website design if necessary.
 - As a site administrator, I should be able to troubleshoot any issues if they arise so that the website is back live as quickly as possible.
@@ -116,96 +117,97 @@ Wireframes were developed for mobile, tablet, and desktop sizes so I have used [
 
 **Brand logo**
 	
-- When deciding a brand name for my nursery I decided little hatchlings would be very fitting as it symbolises that the children are young and growing together all in one place. I created the logo myself using a fun and childlike handrawn typeface to represent the playful, fun and creative aspect of our nursery.
-Logo's are a way of identifying the business and gives the target audience an idea of what the company does. The target audience will recognize the brand and business by it's logo and may even make a judgement based on how the logo makes them feel and this is the value it will give having it on the website. 
-Having a logo will also benefit the users as when people are recommending the nursery or try to explain to other parents the location of the nursery by word of mouth, or online when shown the logo the parents may recognize the logo and where they have seen it before when passing by etc. 
+- When deciding on a brand name for my nursery I decided little hatchlings would be very fitting as it symbolises that the children are young and growing together all in one place. I created the logo myself using a fun and childlike hand-drawn typeface to represent the playful, fun and creative aspect of the nursery.
+Logos are a way of identifying the business and giving the target audience an idea of what the company does. The target audience will recognise the brand and business by it's logo and may even make a judgement based on how the logo makes them feel, which is one of the main values to having it on the website.
+Having a logo will also benefit the users, as when people are recommending the nursery or trying to explain to other parents the location of the nursery by word of mouth or online, when shown the logo, the parents may recognise it and where they have seen it before when passing by, etc.
 	
-![screenshot](documentation/logo.png)
+![screenshot](documentation/logo.png)![screenshot](documentation/logo-screenshot.png)
 
 
 **Navigation Bar**
 
-- The navigation bar consists of a simple inline top right corner list of buttons which all have a grey font unless they are on the active page. The active page has a light purple background color with bold purple text. The navbar page links include a hover effect on the pages they are not currently on so when hovering over that button the font changes a black colour instead of grey.
-With the mobile version it is the same design but I have a added a box shadow and purple border on the left to make it obvious to the user that it is a dropdown box overlaying the background and again, which page they are currently on.
-The benefit to the user is that it has been designed user friendly as the users do not have to be inconvenienced by scrolling back up to the top of the page to change pages and it is clearly highlighted which page they are on. 
-The value this brings to the company is a good impression for the nursery as it demonstrates we have thought from the users point of view and the user leaves the website happy due to the smooth use of the website not having to click on many things to get to their destination.
+- The navigation bar consists of a simple inline top-right corner list of buttons, which all have a grey font unless they are on the active page. The active page has a light purple background with bold purple text. The navbar page links include a hover effect on the pages they are not currently on, so when hovering over that button, the font changes a black colour instead of grey.
+With the mobile version, it is the same design, but I have a added a box shadow and purple border on the left to make it obvious to the user that it is a dropdown box overlaying the background and, again, which page they are currently on.
+The benefit to the user is that it has been designed to be user-friendly, as the users do not have to be inconvenienced by scrolling back up to the top of the page to change pages, and it is clearly highlighted which page they are on. 
+The value this brings to the company is a good impression for the nursery as it demonstrates we have thought from the users point of view, and the user leaves the website happy due to the smooth use of the website not having to click on many things to get to their destination.
 
 ![screenshot](documentation/navbar-feature.png)
 
 
 **Hero callout image**
 
- - As previously mentioned in the UX section, I designed the hero image using a photo of my daughter in which I used photoshop and illustrator to help create the design. The heading says 'Watch their confidence grow as big as their imagination' in a child style typeface to create a fun childlike visual effect to compliment the illustration and the logo in the navbar. The heading inspired me to design the hero image, which is an illustration of an astronaut helmet drawn over an image of a child pretending to be flying out in space. I have used a hero image like this to keep the child-like playful design theme that is in the logo flow through the website design. The callout page is the first thing the user will see so it needs to be visually appealing and intrigue the user enough to want to keep scrolling and therefore this is why I have decided on this hero image. Also, some other nursery competitors have a website and so keeps up with the competition.
- Most users trust a business that has a good website as they give a reliable impression and build credibility but also is a great interation tool between the business and the users.
- The hero image also includes a call to action button that takes you to the contact page so if the user came to the website to look for contact information the option is there immediatley which makes it very convenient for the users too. 
+ - As previously mentioned in the UX section, I designed the hero image using a photo of my daughter, which I used in Photoshop and Illustrator to help create the design. The heading says 'Watch their confidence grow as big as their imagination' in a child-style typeface to create a fun childlike visual effect to complement the illustration in the hero image and the logo in the navbar. The heading inspired me to design the hero image, which is an illustration of an astronaut helmet drawn over an image of a child pretending to be flying out in space. I have used a hero image like this to keep the child-like, playful design theme that is in the logo flowing through the website design. The callout page is the first thing the user will see, so it needs to be visually appealing and intrigue the user enough to make them want to keep scrolling, which is why I have decided on this hero image. Also, some other nursery competitors have websites and keep up with the competition.
+Most users trust a business that has a good website, as they give a reliable impression and build credibility. A good website is also a great communication tool between the business and the users. The hero image also includes a call to action button that takes you to the contact page, so if the user came to the website to look for contact information, the option is there immediately, which makes it very convenient for the users too.
 
 ![screenshot](documentation/home-page-features.png)
 
 
 **Carousel of testimonials**
 	
-- I have used bootstrap to help create a carousel for the parent testimonials/reviews. It can benefit the customer as it scrolls automatically or they can use the buttons to scroll through at their own pace. Also, the user can see the reviews one at a time rather than all at once and being an overload of information, again referring to the hick's law it reduces the complex structure of information. The value the carousel brings to the site is to enable more than one piece of information to occupy the same piece of the website freeing up space for more features without it looking overcrowded. I have kept the carousel design styling very minimal as it will take away from the key feature which are the reviews. Also, I have made the carousel heading to be positioned above the fold of the callout page so that users know to scroll down for more information and the yellow highlight of the header catches the attention of the user. 
+- I have used Bootstrap to help create a carousel for the parent testimonials and reviews. It can benefit the customer as it scrolls automatically, or they can use the buttons to scroll through at their own pace. Also, the user can see the reviews one at a time rather than all at once, and being an overload of information, again referring to Hick's law, it reduces the complex structure of information. The value the carousel brings to the site is that it enables more than one piece of information to occupy the same piece of the website, freeing up space for more features without looking overcrowded. I have kept the carousel design very minimal as a background or too much colour may take away from the key features, which are the reviews. Also, I have made the carousel heading to be positioned above the fold of the callout page so that users know to scroll down for more information, and the yellow highlight of the header catches the attention of the user.
 
 ![screenshot](documentation/carousel-feature.png)
-s
+
 
 **Video & about us section**
 
-- In the about section I have included a video which gives a tour of the nursery to show people what they can expect from the nursery and what the nursery looks like so they dont have the wait until they book a viewing. For first time parents they also get an idea of how a day to day work at the nusery and get the see the other children there is action. The value this could add is to encourage more people to apply for the nursery as the video can make them feel familiar with the nursery before even visiting.
-The video also gives a view of the different facilities and activities that the nursery have but it also is a good way to enhance the users retention rate on the website. 
-- The about section includes information on the history of the nursery which will give the users a background of the nursery and as seen in the survey responses this is something that they do pay attention to when choosing a nursery. Again, a plain white background with black text to make sure the user does not get distracted by any background styling and making it hard to read. 
-For a convenient user expereience I have also included a 'Find a nursery' call for action button to encourage the users to the contact page site where they can send us a message or check on maps to see which branch is the nearest. This tactic is a subtle way to probe the user to ask any questions they may have at the back of their minds easily as the form is already there infront of them which could potentially bring in more interest for the nursery. 
+- In the about section, I have included a video that gives a tour of the nursery to show people what they can expect from the nursery and what the nursery looks like, so they don't have to wait until they book a viewing. For first-time parents, they also get an idea of the day-to-day work at the nursery and get to see the other children in action. The value this could add is to encourage more people to apply for the nursery, as the video can make them feel familiar with the nursery before even visiting.
+The video also gives a view of the different facilities and activities that the nursery has, but it is also a good way to enhance the user retention rate on the website.
+The about section includes information on the history of the nursery, which will give the users a background on the nursery, and as seen in the survey responses, this is something that they do pay attention to when choosing a nursery. Again, a plain white background with black text makes sure the user does not get distracted by any background styling and makes it hard to read.
+For a convenient user experience, I have also included a 'Find a Nursery" call-to-action button to encourage the users to visit the contact page site, where they can send us a message or check on maps to see which branch is the nearest. This tactic is a subtle way to probe the user to ask any questions they may have in the back of their minds easily as the form is already there in front of them, which could potentially bring in more interest for the nursery.
 	
 ![screenshot](documentation/about-video-feature.png)
 
 
 **Awards and achievements**
 	
-- The awards and achievment section are simple 4 images of any recent awards, certifications or rating that they have achieved agaisnt a purple background to section them into their own row. By displaying these on the website it will give the users visiting the site another great example of why they can trust the nursery and the reputation that they have. As children will be eating at the nursery providing the cleanliness or food hygiene awards will provide the reassurance that the parents are looking for and showing them exactly what they want to see. Also,im sure that the nursery will be proud to show the awards and achievements to as many people so the website is the best way to display them. 
+- The awards and achievements section is simply four images of any recent awards, certifications, or ratings that they have achieved against a white.purple background to separate them into their own row dependant on device size. By displaying these on the website, it will give the users visiting the site another great example of why they can trust the nursery and the reputation that they have. As children will be eating at the nursery, providing the cleanliness or food hygiene awards will provide the reassurance that the parents are looking for and show them exactly what they want to see. Also, I'm sure that the nursery will be proud to show the awards and achievements to as many people as possible, so the website is the best way to display them.
 	
 ![screenshot](documentation/achievement-feature.png)
 
 **Our Values section**
 
-- For the our values section I have simply included a paragraph which displays clearly the values of the nursery which the nursery requested to be part of the homepage as another way of displaying to the viewers what their priorities are in the nursery. The styling is again, a simple white background with black text so the reader focuses solely on the information. A call for action button is used again but this time for the gallery as a quick suggestion of what the users may want to see next and another way of subtly keeping the users interacting with the website longer.
+- For our values section, I have simply included a paragraph which displays clearly the values of the nursery, which the nursery requested to be part of the homepage as another way of displaying to the viewers what the nursery's priorities are. The styling is again, a simple white background with black text, so the reader focuses solely on the information. A call for action button is used again, but this time for the gallery as a quick suggestion of what the users may want to see next and another way of subtly keeping the users interacting with the website longer.
 
 ![screenshot](documentation/our-values-feature.png)
 
 **Footer**
-- The footer is simply based at the bottom of the page with a grey background and the options of different social media links and contact information in black icons used from font awesome. The footers benefits are that its giving the options to view the nursery's online precence easily as they can see more real-time feedback from other parents and nursery updates. It is convenient as the links go directly to the social media websites so the users do not have to go looking for the websites independently, it is all in one place and responsive on different screen sizes. With this in mind, it can increase followers on their social media too and allow parents to share images of what their children have created at nursery etc.
+- The footer is simply based at the bottom of the page with a grey background and the options of different social media links and contact information in black icons used from font awesome. The footers' benefits are that it gives the option to view the nursery's online presence easily, as they can see more real-time feedback from other parents and nursery updates. It is convenient as the links go directly to the social media websites, so the users do not have to go looking for the social media websites independently, it is all in one place. With this in mind, it can increase followers on their social media too and allow parents to share images of what their children have created at nursery etc.
 
 ![screenshot](documentation/footer-feature.png)
 
 **Gallery & facilities page**
 	
-- I decided that creating a whole facilities page may not be feasible in the timescale that I have and so I incorperated the facilities in the gallery page by seperating the gallery into two sections. The reason behind this is because parents want to see the enviroment that their child will be in whilst at the nursery and the images of the rooms, outdoor area etc sets an idea of what it is like and may entice them to book a viewing at the nursery.
-You can see below in the screenshot a layout of the gallery in desktop version and in smaller devices. I have made the heading links for the smaller devices so when clicked it will jump scroll to the second section quickly so it is user friendly. I designed the gallery heading backgroud which includes the colour purple that I have used throughout the website and subtle images of the gallery icon faded so the header matches the home page and complement each other. The smaller devices in the header has black text and icons with a white background but larger has a yellow header text with white secondary text and icons to follow the same styling as the homepage on large devices. 
+- I decided that creating a whole new page for the facilities of the nursery may not be feasible on the timescale that I have and so I incorporated the facilities on the gallery page by separating the gallery into two sections. The reason behind this is because parents want to see the environment that their child will be in whilst at the nursery and the images of the rooms, outdoor area etc set an idea of what it is like and may entice them to book a viewing at the nursery. You can see below in the screenshot a layout of the gallery in desktop version and in smaller devices. I have made the heading links for the smaller devices, so when clicked it will jump scroll to the second section quickly so it is simple to use. I designed the gallery heading background tp compliment the colour purple that I have used throughout the website and subtle images of the gallery icon faded so the header matches the home page and complements each other. The smaller devices in the header have black text and icons with a white background, but the larger has yellow header text with white secondary text and icons to follow the same styling as the homepage.
 	
 ![screenshot](documentation/gallery-feature.png)
 
-- I have also used the bootstrap lightbox feature to allow the images to be viewed in large scale as the images are in 2 columns rather than 1. I made the decision to use 2 columns on small devices to make it user friendly so if more images are added in future it is not exhaustive for the user as they can see more selection on their screen rather than scrolling each individual photo. An example of the lightbox feature is below:
+- I have also used the bootstrap lightbox feature to allow the images to be viewed on a large scale as the images are in 2 columns rather than 1. I made the decision to use 2 columns on small devices to make it user-friendly, so if more images are added in future, it is not exhaustive for the user as they can see more selections on their screen rather than scrolling over each individual photo. An example of the lightbox feature is below:
 
 ![screenshot](documentation/gallery-lightbox.png)
 
 
 **Contact Header**
 
-- For the contact header I have used the same design as I created for the gallery background using the purple but instead of the gallery icon I have used the phone icon to maintain the fun look throughout and again, to compliment the other pages. As the header is the first thing the user will see when visiting the page I have included the important information in the header such as the contact number, email and twitter information along with matching icons using font awesome. To highlight the header on the large devices I have used a yellow font for the 'contact' but the other information is all white to stand out against the background clearly. When making the responsive website I realised I have to adjust the styling to keep the same design layout for the smaller devices such as iPad and mobiles and so the header is a white background with black text and icons for the smaller devices. 
+- For the contact header, I have used the same design as I created for the gallery background using the purple, but instead of the gallery icon I have used the phone icon to symbolise the contact but also to maintain the fun look throughout and, again, to match the theme on the other pages. As the header is the first thing the user will see when visiting the page, I have included the important information in the header such as the contact number, email and Twitter information, along with matching icons using font awesome. To highlight the header on the large devices, I have used a yellow font for the 'contact' but the other information is all white to stand out against the background clearly. When making the responsive website, I realised I had to adjust the styling to keep the same design layout for the smaller devices such as iPad and mobiles, and so, the header is a white background with black text and icons for the smaller devices.
 
 ![screenshot](documentation/contact-header-feature.png)
 
 
 **Contact Form**
 
-- For the contact form I have made sure that it is styled in 1 column for the mobile and ipad devices but then for the larger screen sizes I have split the form section in to two columns so that the users can see the whole form and it is easily readible.
-I have styled the form depending on the device it is on, for example with mobile devices the form has a purple background with white primary text and yellow secondary text such as the required fields. Throughout the design I have used the colour yellow to highlight the important call to actions as so I have used the yellow for the form button across all screen sizes. The larger screen form has a white background and black text to adapt to the large design styling with grey muted text for the required fields.
-	
+- For the contact form, I have made sure that it is styled in 1 column for the mobile and ipad devices but then for the larger screen sizes I have split the form section into two columns so that the users can see the whole form in it's entireity and it is easily readible. I have styled the form depending on the device it is on, for example with mobile devices the form has a purple background with white primary text and yellow secondary text such as the required fields. Throughout the design, I have used the colour yellow to highlight the important call to actions, and so I have used yellow for the form button across all screen sizes. The larger screen form has a white background and black text to adapt to the larger design styling with grey muted text for the required fields. The form is a simple style layout created with the help of bootstrap and its font used is 'Poppins' which makes the text easily readible but nicely presented as it is a curvy style typeface. 
+- The form has required field which again benefits the user experience as the form will not only alert if any required fields are missing or in the wrong format but it will also tell you which field has the problem, which again adds to the stress free experience. Lastly, to give the user that final friendly impression I have designed the form so that if a message is submitted then they will have a noificatoin displayed on the screen thanking them for their message and how long until the nursery will respond.
+
 ![screenshot](documentation/contact-form-feature.png)
 
 **Map search**
-- Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+- I have included an frame which contains Google maps as a feature so users can conveniently find a little hatchlings nursery that is near their location. As little hatchlings have many branches around Wales, I decided using the maps to find a little hatchling's nursery nearby would be easier than listing all the addresses of the branches and overloading the page with information. This feature also benefits the users as they don't have to search through a list of addresses of the different branches as we are essentially doing the work for them, making it a smooth and stress-free experience for them.
+- For the styling, again, I have used a minimal style approach as we do not want to overwhelm the website with overcrowded features or styles. I have simply kept the heading centered with the black text against the white background. As usual, for any buttons I have used yellow to highlight them as they are call to action elements, however, for the purpose of this project I have disabled the search function, as we need javascript for it to work properly. As mentioned in the contact form section, the map is in 1 column row on smaller devices but with larger devices I have sectioned the map and contact for to be in the same row in 2 columns as it works better visually so the user can see both features on full screen without the need for scrolling. 
 	
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/map-feature.png)
+
 
 ### Future Features
 
@@ -219,7 +221,7 @@ I have styled the form depending on the device it is on, for example with mobile
 - I would like to add an about page where I can go more in depth on the backrgound/history of the Nursery because I noticed that every response I had from my survey I conducted said they do like to read about the background of the nursery.
 
 **Update/News section**
-- Having a section with updates or recent changes on the nursery would be useful however it is not essential as reflecting on my surveyMonkey responses most customers would refer to our social media page for news/updates. 
+- Having a section with updates or recent changes on the nursery would be useful however it is not essential as reflecting on my surveyMonkey responses most customers would refer to our social media page for news/updates.
 
 **Language options**
 - Giving the choice of languages to our users, particularly welsh language as the nursery is based in Wales. Ideally next to the contact us on the navigation bar or on the callout page you could have the choice to switch to welsh language.
@@ -244,6 +246,7 @@ I have styled the form depending on the device it is on, for example with mobile
 - [Grammar Checker](https://prowritingaid.com/grammar-checker) used to check grammar of the read me and website. 
 - [Illustrator](https://www.adobe.com/uk/products/illustrator.html) used to design the illustration of the hero image, gallery and contact heading background design.
 - [Photoshop](https://www.adobe.com/uk/products/photoshop.html) used to cut out the image of my daughter from the original image.
+- [Google Maps](https://www.google.co.uk/maps) used for the map on the contact page.
 
 ## Testing
 	
