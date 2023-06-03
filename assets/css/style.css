@@ -120,6 +120,7 @@ blockquote {
 
 .carousel-inner {
     padding: 35px 60px 65px 60px;
+    text-decoration: underline solid yellow 3px;
 }
 
 .carousel-indicators li {
