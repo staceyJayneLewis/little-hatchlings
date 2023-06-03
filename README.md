@@ -309,11 +309,18 @@ You can fork this repository by using the following steps:
 | [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
 | [Bootstrap Lightbox](https://lokeshdhakar.com/projects/lightbox2/) | Gallery Page | Tool to make gallery images larger when clicked |
 | [Stackoverflow](https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel) | Home Page | Help to change arrow colour on carousel in the reviews section of the index.html |
-| [Stackoverflow](https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel) | Home Page | Help to change arrow colour on carousel in the reviews section of the index.html |
 | [Stackoverflow](https://stackoverflow.com/questions/14029277/css-background-image-not-displaying) | gallery and contact page | Used to help me figure out why the background-image was not working for me |
 | [W3 Docs](https://www.w3docs.com/snippets/css/how-to-auto-resize-an-image-to-fit-an-html-container.html) | Home Page |Used to see how to use object fit and why it was useful to use on the image of the 'Our Values' section as the image was not the correct size to cover the column. |
+| [W3 Schools](https://www.w3schools.com/css/css3_object-fit.asp) | Also used this as a reference to the object fit property. |
+| [W3 Docs](https://www.w3schools.com/css/tryit.asp?filename=trycss_margin_auto) | Throught the site | Used to remind me that I need to add a width for the margin auto to work |
 | [Databox](https://databox.com/new-vs-returning-visitors) | Whole site | Resource used as part of my research for user experience. |
 | [laws of UX](https://lawsofux.com/hicks-law/) | Whole site | Resource used as part of my research for user experience of the different laws for the strategy plane. |
+| [Bootstrap Docs](https://getbootstrap.com/docs/5.0/layout/gutters/) | Gallery Images | Used to remove the gutters of the images so I can add the revelant padding/margin |
+| [Bootstrap Docs](https://getbootstrap.com/docs/5.0/layout/grid/) | Gallery | Used to learn how the shorthand inline classes work |
+| [Bootstrap Docs](https://getbootstrap.com/docs/5.0/forms/overview/) | Contact Page | Used as a reference to see how I can disable an input field for my map |
+| [w3 schools](https://www.w3schools.com/css/css3_shadows_box.asp) | Navbar Mobile layout | Used to see how to apply a box shadow to an element |
+| [W3 Schools](https://www.w3schools.com/css/css_positioning.asp) | Home Page | Used to see how to position elements with absolute for the our values image so the object fit property will work |
+| [CSS Tricks](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) | Home Page | Used to see how to how absolute works with absolute and the differences |
 
 
 ### Media
@@ -351,10 +358,8 @@ You can fork this repository by using the following steps:
 | [Google Maps](https://www.google.co.uk/maps) | Contact Page | Google Map | used for the map on the contact page. |
 	
 ### Acknowledgements
-Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
-A few examples have been provided below to give you some ideas. 
-	- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
-	- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
-	- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
-	- I would like to thank my partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
-- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
+ 
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
+- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
+- I would like to thank my partner William, for believing in me, and allowing me to make this transition into software development.Also, my daughter for being so patient and understanding that I have to share my attention with her, the course and my job.
