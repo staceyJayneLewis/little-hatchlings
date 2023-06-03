@@ -296,16 +296,13 @@ You can fork this repository by using the following steps:
 	
 ### Local VS Deployment
 
+- colour differences looks darker
+
 <!-- Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages. -->
 
 ## Credits
 	
 ### Content
-	
-<!-- Use this space to provide attribution links to any borrowed code snippets, elements, or resources.
-A few examples have been provided below to give you some ideas.
-	
-Ideally, you should provide an actual link to every resource used, not just a generic link to the main site! -->
 	
 | Source | Location | Notes |
 | --- | --- | --- |
@@ -323,20 +320,32 @@ Ideally, you should provide an actual link to every resource used, not just a ge
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [I created and designed the hero image and have full rights to the image and illustraton itself](/assets/images/hero-image.png) | home page | image | hero image background |
 | [I created the brand name and designed the logo of the branding and have full rights to the image and illustraton itself](/assets/images/little-hatchlings-logo.png) | home page | logo | Brand Name & design |
+| [I created and designed the hero image and have full rights to the image and illustraton itself](/assets/images/hero-image.png) | home page | image | hero image background |
 | [I created the border for the white screen seperator](/assets/images/white-border.png) | entire site | White Border | Page divider |
 | [I created the border for the purple screen seperator](/assets/images/border-thin.png) | entire site | Purple Border | Page divider |
 | [I created the background for the contact page header](/assets/images/contact-bg.png) | Contact Page | background image | Contact header background design |
 | [I created the background for the gallery page header](/assets/images/gallery-bg.png) | Gallery Page | background image | Gallery header background design |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
+| [I created the handrawn underline on the callout headings](/assets/images/highlight.png) | Home Page | illustration | Home page heading underline |
+| [Pexels](https://images.pexels.com/photos/8613059/pexels-photo-8613059.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) | Gallery Page | Stock Image of children in nursery | Image used in the 'Our hatchlings' section of the gallery.
+| [Unsplash](https://images.unsplash.com/photo-1544773088-d142e38f5793?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1113&q=80) | Gallery Page | Stock Image of girl with drawing | Image used in the 'Our Hatchlings' section of the gallery. |
+| [Font Awesome](https://fontawesome.com/search?m=free&o=r) | footer, gallery & contact page | icons | icons used for social media links on the footer, gallery and contact header icons |
+| [Vimeo](https://vimeo.com/830718795?share=copy) | Home Page | audio | free audio files sounds with vimeo video creator |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
 | [Vimeo](https://vimeo.com/830718795?share=copy) used to help put the video clips together and make the full video and effects. |
+| [Pexels](https://www.pexels.com/photo/a-boy-and-girl-playing-toys-on-a-sand-5997622/) | Gallery Page | Stock Image of children in sand | Image used in the 'Our Hatchlings' section of the gallery. |
+| [Unsplash](https://unsplash.com/photos/GagC07wVvck) | Gallery Page | Stock Image of girl with camera | Image used in the 'Our Hatchlings' section of the gallery. |
+| [Unsplash](https://unsplash.com/photos/Do1GQljlNk8) | Gallery Page | Stock Image of children dressed up | Image used in the 'Our Hatchlings' section of the gallery. | 
+| [Pexels](https://www.pexels.com/photo/children-running-with-a-diy-cardboard-box-costume-8544508/) | Gallery Page | Stock Image of children with cardboard | Image used in the 'Our Hatchlings' section of the gallery
+| [Pexels](https://www.pexels.com/photo/girl-in-pink-hat-riding-gray-scooter-and-raising-hands-5997706/) | Gallery Page | Stock Image of girl on scooter | Image used in the 'Our Nursery' section of the gallery. |
+| [Google](https://www.google.com/search?q=google+reviews+logo&sxsrf=APwXEdeNMXltBM4S1Nd0U0rlx_NSRWz3Tg:1685755666644&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEzMCd-aX_AhUahVwKHdOCAKIQ_AUoAXoECAEQAw#imgrc=XXjGr8Rgr6fxEM) | Home Page | Logo | Google logo used to show the google reviews rating |
+| [Google](https://www.google.com/search?q=ofsted+logo&sxsrf=APwXEdcMFtUyInZKOV139UcsHp24ZvTdPw:1685755722782&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo_KK4-aX_AhVFm1wKHXT5BDoQ_AUoAXoECAEQAw&biw=2048&bih=1004&dpr=0.94#imgrc=hpPK9uDCpv0LWM) | Home Page | Logo | Ofsted logo to show accreditation |
+| [Google](https://www.google.com/search?q=food+standard+agency+logo&sxsrf=APwXEddYsMUsgj0Ev9m9fV2jGTYLxI19kQ:1685755974360&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOi56w-qX_AhVaiFwKHQKNABAQ_AUoAXoECAEQAw&biw=2048&bih=1004&dpr=0.94#imgrc=FQk6P-zKv3J9jM) | Home Page | Logo | Food Standard agency logo used as part of the accreditations and awards section |
+| [Google](https://www.google.com/search?q=nhs+logo&sxsrf=APwXEde5Ela6kZwafrstlmXcVOpUPeb5CQ:1685756114630&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZv4_z-qX_AhUUaMAKHVieBx8Q_AUoAXoECAEQAw&biw=2048&bih=1004&dpr=0.94#imgrc=8h5-DlAzT2aSRM) | Home Page | Logo | NHS logo used as part of the accreditations and awards section. |
+| [Pexels](https://www.pexels.com/photo/children-and-their-teacher-sitting-at-the-table-8923369/) | Home Page | Stock Image of children in nursery | Image of children in nursery setting. |
+| [Google Maps](https://www.google.co.uk/maps) | Contact Page | Google Map | used for the map on the contact page. |
+| [Pexels](https://www.pexels.com/photo/courtyard-of-modern-villa-in-sunny-day-7031593/) | Gallery Page and Home page video | Stock Image | Image of nursery building |
+
 
 	
 ### Acknowledgements
