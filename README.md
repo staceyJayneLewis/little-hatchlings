@@ -296,7 +296,7 @@ You can fork this repository by using the following steps:
 	
 ### Local VS Deployment
 
-- colour differences looks darker
+- colour differences looks darker on certain devices, particulalrly the smaller devices.
 
 <!-- Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages. -->
 
@@ -338,15 +338,17 @@ You can fork this repository by using the following steps:
 | [Unsplash](https://unsplash.com/photos/Do1GQljlNk8) | Gallery Page | Stock Image of children dressed up | Image used in the 'Our Hatchlings' section of the gallery. | 
 | [Pexels](https://www.pexels.com/photo/children-running-with-a-diy-cardboard-box-costume-8544508/) | Gallery Page | Stock Image of children with cardboard | Image used in the 'Our Hatchlings' section of the gallery
 | [Pexels](https://www.pexels.com/photo/girl-in-pink-hat-riding-gray-scooter-and-raising-hands-5997706/) | Gallery Page | Stock Image of girl on scooter | Image used in the 'Our Nursery' section of the gallery. |
-| [Google](https://www.google.com/search?q=google+reviews+logo&sxsrf=APwXEdeNMXltBM4S1Nd0U0rlx_NSRWz3Tg:1685755666644&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEzMCd-aX_AhUahVwKHdOCAKIQ_AUoAXoECAEQAw#imgrc=XXjGr8Rgr6fxEM) | Home Page | Logo | Google logo used to show the google reviews rating |
-| [Google](https://www.google.com/search?q=ofsted+logo&sxsrf=APwXEdcMFtUyInZKOV139UcsHp24ZvTdPw:1685755722782&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjo_KK4-aX_AhVFm1wKHXT5BDoQ_AUoAXoECAEQAw&biw=2048&bih=1004&dpr=0.94#imgrc=hpPK9uDCpv0LWM) | Home Page | Logo | Ofsted logo to show accreditation |
-| [Google](https://www.google.com/search?q=food+standard+agency+logo&sxsrf=APwXEddYsMUsgj0Ev9m9fV2jGTYLxI19kQ:1685755974360&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOi56w-qX_AhVaiFwKHQKNABAQ_AUoAXoECAEQAw&biw=2048&bih=1004&dpr=0.94#imgrc=FQk6P-zKv3J9jM) | Home Page | Logo | Food Standard agency logo used as part of the accreditations and awards section |
-| [Google](https://www.google.com/search?q=nhs+logo&sxsrf=APwXEde5Ela6kZwafrstlmXcVOpUPeb5CQ:1685756114630&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZv4_z-qX_AhUUaMAKHVieBx8Q_AUoAXoECAEQAw&biw=2048&bih=1004&dpr=0.94#imgrc=8h5-DlAzT2aSRM) | Home Page | Logo | NHS logo used as part of the accreditations and awards section. |
+| [Pexels](https://www.pexels.com/photo/courtyard-of-modern-villa-in-sunny-day-7031593/) | Gallery Page and Home page video | Stock Image| Image of nursery building |
+| [Unsplash](https://unsplash.com/photos/78Ae6N7rNvI) | | Gallery Page | Stock Image of nursery room | Image used in the 'Our Nursery' section of the gallery. |
+| [Unsplash](https://unsplash.com/photos/dn5VihVxloc) | Gallery Page | Stock Photo of nursery kitchen | Image used for 'Our Nursery' section. |
+| [Pexels](https://www.pexels.com/photo/siblings-playing-a-green-plush-toys-3662845/) | Gallery Page | Stock Photo of quiet cosy corner | Image used for 'Our Nursery' section. |
+| [Pexels](https://www.pexels.com/photo/kids-playroom-with-wooden-tables-and-bunk-bed-8535156/) | Gallery Page | Stock Photo of quiet room | Image used for 'Our Nursery' section. |
 | [Pexels](https://www.pexels.com/photo/children-and-their-teacher-sitting-at-the-table-8923369/) | Home Page | Stock Image of children in nursery | Image of children in nursery setting. |
+| [Hedingham hounds](https://www.hedinghamhounds.co.uk/wp-content/uploads/2019/12/google-reviews-logo.png) | Home Page | Logo | Google logo used to show the google reviews rating |
+| [Pengreen](https://www.pengreen.org/wp-content/uploads/2017/10/Ofsted-logo.jpg) | Home Page | Logo | Ofsted logo to show accreditation |
+| [AllVectorLogo](https://allvectorlogo.com/food-standards-agency-logo/) | Home Page | Logo | Food Standard agency logo used as part of the accreditations and awards section |
+| [1000 logos](https://1000logos.net/nhs-logo/) | Home Page | Logo | NHS logo used as part of the accreditations and awards section. |
 | [Google Maps](https://www.google.co.uk/maps) | Contact Page | Google Map | used for the map on the contact page. |
-| [Pexels](https://www.pexels.com/photo/courtyard-of-modern-villa-in-sunny-day-7031593/) | Gallery Page and Home page video | Stock Image | Image of nursery building |
-
-
 	
 ### Acknowledgements
 Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
