@@ -356,6 +356,10 @@ You can fork this repository by using the following steps:
 | [AllVectorLogo](https://allvectorlogo.com/food-standards-agency-logo/) | Home Page | Logo | Food Standard agency logo used as part of the accreditations and awards section |
 | [1000 logos](https://1000logos.net/nhs-logo/) | Home Page | Logo | NHS logo used as part of the accreditations and awards section. |
 | [Google Maps](https://www.google.co.uk/maps) | Contact Page | Google Map | used for the map on the contact page. |
+| [Pexels](https://www.pexels.com/photo/brown-wooden-table-with-chairs-8088099/) | Home Page | Stock Image | Used in the little hatchlings video |
+| [Pexels](https://www.pexels.com/video/children-lying-down-on-the-floor-8088627) | Home Page | Stock Video | Used in the video of the home page |
+| [Pexels](https://www.pexels.com/video/kid-coloring-a-drawing-of-rocket-ship-7106516/) | Home Page | Stock Video | Used in the video of the home page |
+| [Pexels](https://www.pexels.com/video/woman-teaching-children-in-the-classroom-8088467/) | Home Page | Stock Video | Used in the video of the home page |
 	
 ### Acknowledgements
  
