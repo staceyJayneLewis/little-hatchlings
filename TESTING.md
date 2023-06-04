@@ -16,6 +16,7 @@ I have tested all of the following features on all the mobile, tablets, laptops 
 - The contact form is responsive across all browsers and devices, which includes keeping the inputs spaced evenly apart and breaking at the large breakpoints. The send button for the form works correctly when clicked and has also been tested on different browsers and devices. This includes the form's 'required alert' notifications if the button is clicked and all required fields are not filled in or in the correct format. I have also checked to see if the message notification works after the form is submitted, which advises the user they will respond within 48hrs and the message displays appropriately for 10 seconds as requested, regardless of what device it is being submitted on. The response time to how long it takes for the notification to show after the send button is clicked is instant and this result was the same when testing all the different browsers and devices. The last thing I tested on the form is that the background color of purple is removed when it reaches the large breakpoint as it is not needed for the larger screen and this also works well on the live site on the device and browsers listed. Another test that I conducted was to make sure that the form h5 header and text stayed center aligned above the form in the column when responsive, which also was a successful result on all devices and browsers listed above.
 - The map feature is responsive to the screen size and, just like the form, at the large breakpoint changes into a 2 column row, successfully causing the map to be alongside the form. Having tested this on a windows computer, Apple mac and HP laptop, it is clear that this has worked successfully on their default browsers and the additional browsers listed such as brave.The input and search button for the map stay inline next to eachothrer regardless of size screen and browser whilst staying center aligned in the container and this also applies to the map heading and text.
 
+
 ## Code Validation
 
 ### HTML
@@ -34,82 +35,33 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FstaceyJayneLewis.github.io%2Flittle-hatchlings) | ![screenshot](documentation/css-screenshot.jpg) | 2 value errors - FIXED |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FstaceyJayneLewis.github.io%2Flittle-hatchlings) | ![screenshot](documentation/css-screenshot.jpg) | 2 value errors - FIXED CORRECTIONS |
 
 ## Browser Compatibility
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to discuss testing the live/deployed site on various browsers.
-
-Consider testing at least 3 different browsers, if available on your system.
-
-Recommended browsers to consider:
-- [Chrome](https://www.google.com/chrome)
-- [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer)
-- [Edge](https://www.microsoft.com/edge)
-- [Safari](https://support.apple.com/downloads/safari)
-- [Brave](https://brave.com/download)
-- [Opera](https://www.opera.com/download)
-
-**IMPORTANT**: You must provide screenshots of the tested browsers, to "prove" that you've actually tested them.
-
-Please note, there are services out there that can test multiple browser compatibilities at the same time.
-Some of these are paid services, but some are free.
-If you use these, you must provide a link to the source used for attribution, and multiple screenshots of the results.
-
-Sample browser testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
 | Browser | Screenshot | Notes |
 | --- | --- | --- |
-| Chrome | ![screenshot](documentation/browser-chrome.png) | Works as expected |
-| Firefox | ![screenshot](documentation/browser-firefox.png) | Works as expected |
-| Edge | ![screenshot](documentation/browser-edge.png) | Works as expected |
-| Safari | ![screenshot](documentation/browser-safari.png) | Minor CSS differences |
-| Brave | ![screenshot](documentation/browser-brave.png) | Works as expected |
-| Opera | ![screenshot](documentation/browser-opera.png) | Minor differences |
-| Internet Explorer | ![screenshot](documentation/browser-iex.png) | Does not work as expected |
-| x | x | repeat for any other tested browsers |
+| Chrome | ![screenshot](documentation/chrome-compatibility.jpg) | Works as expected |
+| Edge | ![screenshot](documentation/edge-compatibility.jpg) | Works as expected |
+| Brave | ![screenshot](documentation/brave-compatibility.jpg) | Works as expected |
+| Firefox | ![screenshot](documentation/firefox-compatibility.jpg) | Works as expected |
 
 ## Responsiveness
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-The minimum requirement is for the following 3 tests:
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of the tested responsiveness, to "prove" that you've actually tested them.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well.
-It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-Sample responsiveness testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
 | Device | Screenshot | Notes |
 | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsive-mobile.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsive-tablet.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsive-desktop.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsive-xl.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsive-4k.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsive-pixel.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsive-iphone.png) | Works as expected |
-| x | x | repeat for any other tested sizes |
+| Google Pixel 7 | ![screenshot](documentation/google-pixel7.png) | Works as expected |
+| iPhone 14 | ![screenshot](documentation/iphone12.jpg) | Works as expected |
+| Mobile Samsung S8+ (DevTools) | ![screenshot](documentation/samsung-galaxyS8.jpg) | Works as expected |
+| Mobile iPhone 12 Pro (DevTools) | ![screenshot](documentation/iphone12Pro.jpg) | Works as expected |
+| iPad (DevTools) | ![screenshot](documentation/ipad.jpg) | Works as expected |
+| Samsung tablet | ![screenshot](documentation/samsung-tablet.jpg) | Works as expected |
+| Laptop | ![screenshot](documentation/chrome-compatibility.jpg) | Works as expected |
+| Desktop | 
 
 ## Lighthouse Audit
 
