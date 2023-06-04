@@ -80,7 +80,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | New User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to find contact information or social media links easily so that I can simply contact the nursery with any queries and view updates on social media if necessary. | ![screenshot](documentation/contact-header-feature.png) ![screenshot](documentation/contact-form-feature.jpg) |
+| As a new site user, I would like to find contact information easily so that I can simply contact the nursery with any queries. | ![screenshot](documentation/contact-header-feature.png) ![screenshot](documentation/contact-form-feature.jpg) |
 | As a new site user, I would like to see a simple gallery, so that I can get an idea of what the nursery looks like and the rooms/facilities they have. | ![screenshot](documentation/gallery-feature.png) |
 | As a new site user, I would like to see reviews and awards the nursery have achieved, so that I can be reassured that my child will be safe and looked after well. |  ![screenshot](documentation/achievement-feature.png) ![screenshot](documentation/carousel-feature.png) |
 | As a new site user, I would like to see a video that will show quick clips of the typical day at the nursery so that I can visualise what my child will be getting involved in. | ![screenshot](documentation/about-video-feature.png) |
@@ -88,28 +88,11 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Returning User Story | Screenshot |
 | --- | --- |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-
-| Returning User Story | Screenshot |
-| --- | --- |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
+| As a returning site user, I would like to check if there are nursery centres near me if I move/plan to move home, so that I can change the location of the nursery to a closer one. | ![screenshot](documentation/map-feature.png) |
+| As a returning site user, I would like to have easy access to social media links, so that I can share any feedback or share the nursery images that has my child in. | ![screenshot](documentation/footer-feature.png) |
+| As a returning site user, I would like to have a mobile friendly design so that I can visit the website on my mobile or tablet aswell as desktop | ![screenshot](documentation/home-page-features.png) |
 
 ## Bugs
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-It's very important to document any bugs you've discovered while developing the project.
-Make sure to include any necessary steps you've implemented to fix the bug(s) as well.
-
-For JavaScript and Python applications, it's best to screenshot the errors to include them as well.
-
-**PRO TIP**: screenshots of bugs are extremely helpful, and go a long way!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - JS Uncaught ReferenceError: `foobar` is undefined/not defined
 
@@ -215,10 +198,7 @@ Some examples:
 
     - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-If you legitimately cannot find any unfixed bugs or warnings, then use the following sentence:
+<!-- If you legitimately cannot find any unfixed bugs or warnings, then use the following sentence:
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-There are no remaining bugs that I am aware of.
+There are no remaining bugs that I am aware of. -->
