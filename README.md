@@ -67,7 +67,7 @@ I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate 
 
 ### New Site Users
 	
-- As a new site user, I would like to find contact information or social media links easily so that I can simply contact the nursery with any queries and view updates on social media if necessary.
+- As a new site user, I would like to find contact information easily so that I can simply contact the nursery with any queries.
 - As a new site user, I would like to see a simple gallery, so that I can get an idea of what the nursery looks like and the rooms/facilities they have.
 - As a new site user, I would like to see reviews and awards the nursery have achieved, so that I can be reassured that my child will be safe and looked after well.
 - As a new site user, I would like to see a video that will show quick clips of the typical day at the nursery so that I can visualise what my child will be getting involved in.
@@ -75,18 +75,9 @@ I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate 
 	
 ### Returning Site Users
 	
-- As a returning site user, I would like to regularly see updated images, so that I can see any photos of my child having fun at the nursery.
 - As a returning site user, I would like to check if there are nursery centres near me if I move home, so that I can change the location of the nursery to a closer one.
-- As a returning site user, I would like to have easy access to social media links, so that I can share any feedback or share the nursery images that have my child in.
-- As a returning site user, I would like to see a future feature where you can have your own account on the website and sign in to a platform which gets updated with your childs daily report such as nappy changes, medicines given, what food they have had etc. 
-	
-### Site Admin
-	
-- As a site administrator, I should be able to add as many gallery photos, so that I can update them when needed without it compromising the layout of the design.
-- As a site administrator, I should be able to easily update information, so that I can regularly update the website when necessary.
-- As a site administrator, I should be able to keep the website secure, so that I can make sure no hackers access the site.
-- As a site administrator, I should be able to add new features to develop the website design if necessary.
-- As a site administrator, I should be able to troubleshoot any issues if they arise so that the website is back live as quickly as possible.
+- As a returning site user, I would like to have easy access to social media links, so that I can share any feedback or share the nursery images that has my child in.
+- As a returning site user, I would like to have a mobile friendly design so that I can visit the website on my mobile or tablet aswell as desktop.
 
 ## Wireframes
 	
