@@ -70,8 +70,8 @@ I used [coolors.co](https://coolors.co/ffffff-5a31ad-ffff00-000000) to generate 
 - As a new site user, I would like to find contact information or social media links easily so that I can simply contact the nursery with any queries and view updates on social media if necessary.
 - As a new site user, I would like to see a simple gallery, so that I can get an idea of what the nursery looks like and the rooms/facilities they have.
 - As a new site user, I would like to see reviews and awards the nursery have achieved, so that I can be reassured that my child will be safe and looked after well.
-- As a new site user, I would like to see plenty of images or videos that will show the typical day at the nursery so that I can visualise what my child will be getting involved in.
-- As a new site user, I would like to see a visually appealing design that is informative with all information readily available so I don't need to be inconvenienced to call for general queries.
+- As a new site user, I would like to see a video that will show quick clips of the typical day at the nursery so that I can visualise what my child will be getting involved in.
+- As a new site user, I would like to see a map where I can easily locate the nursery with their address or be able to search for the nearest center to my location.
 	
 ### Returning Site Users
 	
@@ -199,7 +199,7 @@ For a convenient user experience, I have also included a 'Find a Nursery" call-t
 - For the contact form, I have made sure that it is styled in 1 column for the mobile and ipad devices but then for the larger screen sizes I have split the form section into two columns so that the users can see the whole form in it's entireity and it is easily readible. I have styled the form depending on the device it is on, for example with mobile devices the form has a purple background with white primary text and yellow secondary text such as the required fields. Throughout the design, I have used the colour yellow to highlight the important call to actions, and so I have used yellow for the form button across all screen sizes. The larger screen form has a white background and black text to adapt to the larger design styling with grey muted text for the required fields. The form is a simple style layout created with the help of bootstrap and its font used is 'Poppins' which makes the text easily readible but nicely presented as it is a curvy style typeface. 
 - The form has required field which again benefits the user experience as the form will not only alert if any required fields are missing or in the wrong format but it will also tell you which field has the problem, which again adds to the stress free experience. Lastly, to give the user that final friendly impression I have designed the form so that if a message is submitted then they will have a noificatoin displayed on the screen thanking them for their message and how long until the nursery will respond.
 
-![screenshot](documentation/contact-form-feature.png)
+![screenshot](documentation/contact-form-feature.jpg)
 
 **Map search**
 

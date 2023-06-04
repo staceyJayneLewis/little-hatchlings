@@ -78,24 +78,22 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## User Story Testing
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Testing user stories is actually quite simple, once you've already got the stories defined on your README.
-
-Most of your project's **features** should already align with the **user stories**,
-so this should as simple as creating a table with the user story, matching with the re-used screenshot
-from the respective feature.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-| User Story | Screenshot |
+| New User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
+| As a new site user, I would like to find contact information or social media links easily so that I can simply contact the nursery with any queries and view updates on social media if necessary. | ![screenshot](documentation/contact-header-feature.png) ![screenshot](documentation/contact-form-feature.jpg) |
+| As a new site user, I would like to see a simple gallery, so that I can get an idea of what the nursery looks like and the rooms/facilities they have. | ![screenshot](documentation/gallery-feature.png) |
+| As a new site user, I would like to see reviews and awards the nursery have achieved, so that I can be reassured that my child will be safe and looked after well. |  ![screenshot](documentation/achievement-feature.png) ![screenshot](documentation/carousel-feature.png) |
+| As a new site user, I would like to see a video that will show quick clips of the typical day at the nursery so that I can visualise what my child will be getting involved in. | ![screenshot](documentation/about-video-feature.png) |
+| As a new site user, I would like to see a map where I can easily locate the nursery with their address or be able to search for the nearest center to my location. | ![screenshot](documentation/map-feature.png) |
+
+| Returning User Story | Screenshot |
+| --- | --- |
 | As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
 | As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
 | As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
+
+| Returning User Story | Screenshot |
+| --- | --- |
 | As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
 | As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
 | As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
