@@ -184,6 +184,10 @@ video {
     padding-top: 4rem;
 }
 
+.gallery-heading img {
+    width: 50px;
+}
+
 .gallery-container {
     width: 100%;
     color: white;
