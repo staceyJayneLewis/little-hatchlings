@@ -61,7 +61,7 @@ nav img {
 /*callout*/
 .callout {
     margin-top: 110px;
-    font: size 14px;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -378,7 +378,7 @@ footer {
     }
     
     nav ul li {
-        background-color: none;
+        background:none;
     }
 
     nav .active {
