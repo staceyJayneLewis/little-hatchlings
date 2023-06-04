@@ -182,7 +182,6 @@ video {
     text-align: center;
     width: 100%;
     padding-top: 4rem;
-
 }
 
 .gallery-container {
@@ -213,6 +212,7 @@ video {
 
 .gallery-icon-white {
     display: none;
+
 }
 
 #section-two {
@@ -236,6 +236,7 @@ video {
 .gallery-text {
     padding: 0 1.5rem;
 }
+
 
 a:hover {
     text-decoration: underline 2px yellow;
@@ -491,7 +492,7 @@ footer {
     #gallery-header {
         height: 40vh;
         color: white;
-        background: url(/assets/images/gallery-bg.png);
+        background: url(assets/images/gallery-bg.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -549,7 +550,7 @@ footer {
 
     .contact-us-header {
         height: 40vh;
-        background: url(/assets/images/contact-bg.png) center center no-repeat;
+        background: url(assets/images/contact-bg.png) center center no-repeat;
         background-size: cover;
         color: white;
     }
