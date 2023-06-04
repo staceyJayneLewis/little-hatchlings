@@ -496,7 +496,7 @@ footer {
     #gallery-header {
         height: 40vh;
         color: white;
-        background: url(./assets/images/gallery-bg.png);
+        background: url(../images/gallery-bg.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -554,7 +554,7 @@ footer {
 
     .contact-us-header {
         height: 40vh;
-        background: url(/assets/images/contact-bg.png) center center no-repeat;
+        background: url(../images/contact-bg.png) center center no-repeat;
         background-size: cover;
         color: white;
     }
