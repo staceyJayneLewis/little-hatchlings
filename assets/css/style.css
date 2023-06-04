@@ -496,7 +496,7 @@ footer {
     #gallery-header {
         height: 40vh;
         color: white;
-        background: url(/assets/images/gallery-bg.png);
+        background: url(./assets/images/gallery-bg.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
