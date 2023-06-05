@@ -11,7 +11,7 @@ body {
 }
 
 .btn {
-    background-color: yellow;
+    background-color:#ffea00;
     color: black;
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 .underline {
-    text-decoration: underline yellow 2px;
+    text-decoration: underline #ffea00 2px;
     padding: 0 !important;
 }
 
@@ -96,11 +96,11 @@ nav img {
 
 .callout-heading p {
     font-size: 17px;
-    padding-top: 6px;
+    padding-top: 8px;
 }
 
 .callout-heading h1 {
-    padding-top: 6vh;
+    padding-top: 9vh;
     font-family: 'Patrick Hand', cursive;
 }
 
@@ -125,7 +125,7 @@ blockquote {
 
 .carousel-inner {
     padding: 35px 60px 65px 60px;
-    text-decoration: underline solid yellow 3px;
+    text-decoration: underline solid #ffea00 3px;
 }
 
 .carousel-indicators li {
@@ -250,7 +250,7 @@ video {
 
 
 a:hover {
-    text-decoration: underline 2px yellow;
+    text-decoration: underline 2px #ffea00;
 }
 
 
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .text-muted {
-    color: yellow !important;
+    color: #ffea00 !important;
 }
 
 .form-section {
@@ -346,7 +346,7 @@ form textarea {
 }
 
 .map-search i {
-    background-color: yellow;
+    background-color: #ffea00;
     padding: 7px;
     color:black;
 }
@@ -439,7 +439,8 @@ footer {
 
     .callout {
         width: 100%;
-        background-color: #5A31AD;
+        background-color: #5a31ad;
+    
     }
 
     .callout div {
@@ -448,12 +449,13 @@ footer {
         justify-content: center;
     }
 
-    .callout h2 {
+    .callout-heading h1 {
+        padding-top: 5vh;
         color: white;
     }
 
     .callout-heading h5 {
-        color:yellow;
+        color:#ffea00;
     }
 
     .large-hero {
@@ -507,11 +509,11 @@ footer {
 
     #gallery-header h2 {
         font-size: 40px;
-        color: yellow;
+        color: #ffea00;
     }
 
     #gallery-header h4 {
-        color: yellow;
+        color: #ffea00;
     }
 
     .gallery-row {
@@ -565,7 +567,7 @@ footer {
 
     .contact-us-header h2 {
         font-size: 40px;
-        color: yellow;
+        color: #ffea00;
     }
 
     .contact-us-header i {
