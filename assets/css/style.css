@@ -15,6 +15,11 @@ body {
     color: black;
 }
 
+.btn:hover {
+    background-color:gainsboro;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
+
 .underline {
     text-decoration: underline yellow 2px;
     padding: 0 !important;
