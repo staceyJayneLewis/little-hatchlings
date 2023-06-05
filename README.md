@@ -311,6 +311,7 @@ Testing the buttons and looking at the live link on different devices such as iP
 | [w3 schools](https://www.w3schools.com/css/css3_shadows_box.asp) | Navbar Mobile layout | Used to see how to apply a box shadow to an element |
 | [W3 Schools](https://www.w3schools.com/css/css_positioning.asp) | Home Page | Used to see how to position elements with absolute for the our values image so the object fit property will work |
 | [CSS Tricks](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) | Home Page | Used to see how to how absolute works with absolute and the differences |
+| [CSS Tricks](https://css-tricks.com/fluid-width-video/) | Home Page | Used work out how to make my video fill the container space when responsive
 
 
 ### Media
