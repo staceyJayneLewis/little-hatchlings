@@ -61,7 +61,7 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 | iPad (DevTools) | ![screenshot](documentation/ipad.jpg) | Works as expected |
 | Samsung tablet | ![screenshot](documentation/samsung-tablet.jpg) | Works as expected |
 | Laptop | ![screenshot](documentation/chrome-compatibility.jpg) | Works as expected |
-| Desktop | 
+| Desktop | ![screenshot](documentation/desktop-large.jpg) | Works as expected |
 
 ## Lighthouse Audit
 
