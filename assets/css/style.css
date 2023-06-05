@@ -65,8 +65,6 @@ nav img {
 
 /*callout*/
 .callout {
-    margin-top: 110px;
-    font-size: 14px;
     text-align: center;
 }
 
@@ -101,7 +99,8 @@ nav img {
     padding-top: 6px;
 }
 
-.callout-heading h2 {
+.callout-heading h1 {
+    padding-top: 6vh;
     font-family: 'Patrick Hand', cursive;
 }
 
@@ -441,23 +440,16 @@ footer {
     .callout {
         width: 100%;
         background-color: #5A31AD;
-        margin-top: 70px;
-        height: 80vh;
     }
 
     .callout div {
         text-align: left;
         color: black;
-        height: 100%;
-    }
-
-    .callout-heading {
-        padding: 65px 45px;
+        justify-content: center;
     }
 
     .callout h2 {
         color: white;
-        font-size: 3.5rem;
     }
 
     .callout-heading h5 {
