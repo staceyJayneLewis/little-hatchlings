@@ -75,15 +75,15 @@ nav img {
 }
 
 .callout .highlight {
+    width: 100%;
     position: absolute;
     bottom: -0.20rem;
-    width: 100%;
 }
 
 .callout .highlight-big {
     width: 100%;
     position: absolute;
-    bottom: 3px;
+    bottom: 0.20rem;
 }
 
 .callout img {
@@ -97,6 +97,7 @@ nav img {
 }
 
 .callout-heading p {
+    font-size: 17px;
     padding-top: 6px;
 }
 
@@ -385,6 +386,7 @@ footer {
 
 /*sm responsive*/
 @media (min-width: 575px) {
+
     nav ul {
         box-shadow: none;
     }
@@ -446,7 +448,6 @@ footer {
     .callout div {
         text-align: left;
         color: black;
-        font-size: 20px;
         height: 100%;
     }
 
@@ -507,7 +508,7 @@ footer {
     #gallery-header {
         height: 40vh;
         color: white;
-        background: url(../images/gallery-bg.png);
+        background: url(../images/gallery-bg.webp);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -565,7 +566,7 @@ footer {
 
     .contact-us-header {
         height: 40vh;
-        background: url(../images/contact-bg.png) center center no-repeat;
+        background: url(../images/contact-bg.webp) center center no-repeat;
         background-size: cover;
         color: white;
     }
