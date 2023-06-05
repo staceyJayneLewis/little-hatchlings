@@ -122,6 +122,20 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
     - To fix this, I added the d-flex flex-column justify-content-center which works in keeping it centered in the middle of container as I wanted.
 
 
+- Bootstrap lightbox feature not opening the images to full size images when the images are clicked
+
+    ![screenshot](documentation/bug06.jpg)
+
+    - To fix this, I realised I was using a link in the head for bootstrap lightbox 5 but I was using bootstrap lightbox 4 so when I changed the link to a bootstrap 4 lightbox it worked. 
+
+
+- Gallery header background image not displaying on deployed site but displaying on preview
+
+    ![screenshot](documentation/bug07.jpg)
+
+    - To fix this, I realised there was a path error. I needed to change the file path to a relative link so that github pages can also read the correct path to the file.
+
+
 ### GitHub **Issues**
 
 **Fixed Bugs**
@@ -130,9 +144,12 @@ All previously closed/fixed bugs can be tracked [here](https://github.com/stacey
 
 | Bug | Status |
 | --- | --- |
-| [JS Uncaught ReferenceError: `foobar` is undefined/not defined](https://github.com/staceyJayneLewis/little-hatchlings/issues/1) | Closed |
-| [Python `'ModuleNotFoundError'` when trying to import module from imported package](https://github.com/staceyJayneLewis/little-hatchlings/issues/2) | Closed |
-| [Django `TemplateDoesNotExist` at /appname/path appname/template_name.html](https://github.com/staceyJayneLewis/little-hatchlings/issues/3) | Closed |
+| [Container fluid element not going to the end of the page](https://github.com/staceyJayneLewis/little-hatchlings/issues/1) | Closed |
+| [Video is not responsive to fill the container](https://github.com/staceyJayneLewis/little-hatchlings/issues/2) | Closed |
+| [Footer showing a strong element container around it](https://github.com/staceyJayneLewis/little-hatchlings/issues/3) | Closed |
+| ['About Us' section is not centered vertically in the container so that it looks centered in the middle of the container box](https://github.com/staceyJayneLewis/little-hatchlings/issues/4) | Closed |
+| [Bootstrap lightbox feature not opening the images to full size images when the images are clicked](https://github.com/staceyJayneLewis/little-hatchlings/issues/5) | Closed |
+| [Gallery header background image not displaying on deployed site but displaying on preview](https://github.com/staceyJayneLewis/little-hatchlings/issues/5) | Closed |
 
 **Open Issues**
 
@@ -140,20 +157,8 @@ There are no remaining open issues (https://github.com/staceyJayneLewis/little-h
 
 ## Unfixed Bugs
 
-- On devices smaller than 375px, the page starts to have `overflow-x` scrolling.
-
-    ![screenshot](documentation/unfixed-bug01.png)
-
-    - Attempted fix: I tried to add additional media queries to handle this, but things started becoming too small to read.
-
-- For PP3, when using a helper `clear()` function, any text above the height of the terminal does not clear, and remains when you scroll up.
-
-    ![screenshot](documentation/unfixed-bug02.png)
-
-    - Attempted fix: I tried to adjust the terminal size, but it only resizes the actual terminal, not the allowable area for text.
-
 - When validating HTML with a semantic `section` element, the validator warns about lacking a header `h2-h6`. This is acceptable.
 
-    ![screenshot](documentation/unfixed-bug03.png)
+    ![screenshot](documentation/unfixed-bug.jpg)
 
     - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
