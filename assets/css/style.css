@@ -68,6 +68,10 @@ nav img {
     text-align: center;
 }
 
+.callout div {
+    padding-top: 2.5rem;
+}
+
 .callout span {
     position: relative;
 }
@@ -75,13 +79,13 @@ nav img {
 .callout .highlight {
     width: 100%;
     position: absolute;
-    bottom: -0.20rem;
+    bottom: -0.5rem;
 }
 
 .callout .highlight-big {
     width: 100%;
     position: absolute;
-    bottom: 0.20rem;
+    bottom: 0.3rem;
 }
 
 .callout img {
@@ -100,7 +104,6 @@ nav img {
 }
 
 .callout-heading h1 {
-    padding-top: 9vh;
     font-family: 'Patrick Hand', cursive;
 }
 
@@ -444,18 +447,13 @@ footer {
     }
 
     .callout div {
+        padding-top: 0;
         text-align: left;
         color: black;
-        justify-content: center;
     }
 
     .callout-heading h1 {
-        padding-top: 5vh;
         color: white;
-    }
-
-    .callout-heading h5 {
-        color:#ffea00;
     }
 
     .large-hero {
