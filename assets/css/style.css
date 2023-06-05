@@ -459,6 +459,10 @@ footer {
         font-size: 3.5rem;
     }
 
+    .callout-heading h5 {
+        color:yellow;
+    }
+
     .large-hero {
         display: block;
         width: 100%;
