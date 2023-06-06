@@ -36,7 +36,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstaceyjaynelewis.github.io%2Flittle-hatchlings%2Findex.html) | ![screenshot](documentation/index-screenshot.jpg) | Section lacks header h2-h6 warning, Bad value 100% for attribute width on element video & No p element in scope but a p end tag seen - FIXED p correction only - did not correct the other 2 as the errors are acceptable |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstaceyjaynelewis.github.io%2Flittle-hatchlings%2Findex.html) | ![screenshot](documentation/index-screenshot.jpg) | Section lacks header h2-h6 warning, Bad value 100% for attribute width on element video & No p element in scope but a p end tag seen - FIXED other than the h2-h6 warning as it is acceptable |
 | Gallery | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstaceyjaynelewis.github.io%2Flittle-hatchlings%2Fgallery.html) | ![screenshot](documentation/gallery-screenshot.jpg) | Section lacks header h2-h6 warning & Stray end tag a - FIXED CORRECTIONS |
 | Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstaceyjaynelewis.github.io%2Flittle-hatchlings%2Fcontact.html) | ![screenshot](documentation/contact-screenshot.jpg) | No errors or warnings to show. |
 
@@ -151,7 +151,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
     ![screenshot](documentation/bug02.jpg)
 
-    - To fix this by resizing the original image slightly and using the object-fit:cover so that it doesn't get stretched too much. 
+    - Removed the set height and instead resized the original image slightly and then used the object-fit:cover so that it doesn't get stretched too much. 
 
 
 ### GitHub **Issues**
