@@ -431,12 +431,9 @@ footer {
     .callout div {
         padding-top: 0;
         text-align: left;
-        color: black;
-    }
-
-    .callout-heading h1 {
         color: white;
     }
+
 
     .large-hero {
         display: block;
