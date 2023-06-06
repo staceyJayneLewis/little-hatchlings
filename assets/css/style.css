@@ -270,13 +270,12 @@ a:hover {
 }
 
 .contact-us-info {
-    width:400px;
+    width:300px;
     margin:0 auto;
     padding-top: 2.5rem;
 }
 
 .contact-us-info ul {
-    width:320px;
     margin: 0 auto;
     padding: 10px 0 10px 65px;
 }
@@ -589,9 +588,4 @@ footer {
         padding-right: 1rem;
         padding-left: 1rem;
     }
-
-    .map {
-        padding-right: 2rem;
-    }
 }
-
