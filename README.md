@@ -288,8 +288,7 @@ You can fork this repository by using the following steps:
 	
 ### Local VS Deployment
 
-- On the large screen devices with the live github link such as my laptop the website looks as expected. However, when trying the github live link on my phone the website the saturation of colour seem to be different. I have noticed that images seem darker contrasted but the yellow highlights on the logo, buttons, underlines etc seems to be brighter than expected. 
-Testing the buttons and looking at the live link on different devices such as iPads, phones, latops seem to be working great but as mentioned above the only difference I can see is slightly with the colour.
+No differences that I have noticed on the live site compared to the local. 
 
 ## Credits
 	
